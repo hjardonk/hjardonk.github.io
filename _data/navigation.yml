@@ -13,3 +13,10 @@ main:
   - title: "Publications"
     url: /publications/
     description: Here you can see a list of my publications
+  - title: "CV"
+    url: /cv/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Contact me"
+    url: /contact/
+    
