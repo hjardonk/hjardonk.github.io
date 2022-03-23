@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Hildeberto Jardón Kojakhmetov"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hildeberto's webpage"
+subtitle                 : Academic webpage
+name                     : ""
 description              : "Under development"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hildeberto Jardón Kojakhmetov"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "..."
-  location         : "University of Groningen, \n The Netherlands"
-  email            : h.jardon.kojakhmetov@rug.nl
+  location         : "University of Groningen,NL"
+  email            : "h.jardon.kojakhmetov@rug.nl"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
