@@ -1,5 +1,5 @@
 ---
-permalink: /pubs/
+permalink: /publications/
 layout: single
 author_profile: true
 ---
