@@ -105,7 +105,7 @@ author:
   name             : "Hildeberto Jardón Kojakhmetov"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "..."
-  location         : "University of Groningen, The Netherlands"
+  location         : "University of Groningen, \n The Netherlands"
   email            : h.jardon.kojakhmetov@rug.nl
   links:
     - label: "Email"
