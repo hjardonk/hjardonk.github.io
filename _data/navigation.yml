@@ -11,5 +11,5 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "Publications"
-    url: /docs/pubs/
+    url: /docs/_pages/pubs.md
     description: Here you can see a list of my publications
