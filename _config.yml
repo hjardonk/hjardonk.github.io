@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       #icon: "fas fa-fw fa-envelope-square"
-      icon: "fas fa-at"
+      icon: "fas fa-fw fa-at"
       # url: "mailto:h.jardon.kojakhmetov@rug.nl"
     - label: "ResearchGate"
       icon: "fa-brands fa-researchgate"
