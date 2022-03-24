@@ -106,7 +106,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "..."
   location         : "University of Groningen, NL"
-  email            : "h.jardon.kojakhmetov@rug.nl"
+  # email            : "h.jardon.kojakhmetov@rug.nl"
   links:
     - label: "Email"
       #icon: "fas fa-fw fa-envelope-square"
