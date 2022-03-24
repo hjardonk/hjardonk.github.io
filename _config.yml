@@ -112,7 +112,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:h.jardon.kojakhmetov@rug.nl"
     - label: "ResearchGate"
-      icon: "fa-brands fa-researchgate"
+      icon: "fas fa-brands fa-researchgate"
       url: "https://www.researchgate.net/profile/Hildeberto-Jardon-Kojakhmetov"
     - label: "Website"
       icon: "fas fa-fw fa-link"
