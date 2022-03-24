@@ -111,7 +111,7 @@ author:
     - label: "Email"
       #icon: "fas fa-fw fa-envelope-square"
       icon: "fas fa-paper-plane"
-      # url: "mailto:h.jardon.kojakhmetov@rug.nl"
+      url: "mailto:h.jardon.kojakhmetov@rug.nl"
     - label: "ResearchGate"
       icon: "fa-brands fa-researchgate"
       url: "https://www.researchgate.net/profile/Hildeberto-Jardon-Kojakhmetov"
