@@ -109,10 +109,11 @@ author:
   email            : "h.jardon.kojakhmetov@rug.nl"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      #icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-at"
       # url: "mailto:h.jardon.kojakhmetov@rug.nl"
     - label: "ResearchGate"
-      icon: "fas fa-brands fa-researchgate"
+      icon: "fa-brands fa-researchgate"
       url: "https://www.researchgate.net/profile/Hildeberto-Jardon-Kojakhmetov"
     - label: "Website"
       icon: "fas fa-fw fa-link"
