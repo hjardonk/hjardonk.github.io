@@ -4,16 +4,18 @@ layout: single
 author_profile: true
 ---
 
-# Pre-prints
+Pre-prints
+==================
+0. The hyperbolic umbilic singularity in fast-slow systems
+0. Slow-fast torus knots
+{: reversed="reversed"}
+
+
+Journals
 ==================
 
 
 
-# Journals
-==================
-
-
-
-# Conference proceedings
+Conference proceedings
 ==================
 
