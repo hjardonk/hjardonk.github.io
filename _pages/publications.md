@@ -28,8 +28,8 @@ classes: wide
 <ol reversed="">
 
 <li>
-<a href="https://link.springer.com/article/10.1007%2Fs00285-021-01664-5" target="_blank" rel="noopener noreferrer"><em> A geometric analysis of the SIRS epidemiological model on a homogeneous network </em></a>
-<span><a href="https://arxiv.org/abs/2011.02169" style="font-size:14px;color:#000000;">[arXiv]</a></span><br>
+<a href="https://link.springer.com/article/10.1007%2Fs00285-021-01664-5" target="_blank" rel="noopener noreferrer"><em> A geometric analysis of the SIRS epidemiological model on a homogeneous network</em></a>
+<span> <a href="https://arxiv.org/abs/2011.02169" style="font-size:14px;color:#000000;">[arXiv]</a></span><br>
 <small>(with C. Kuehn, A. Pugliese, and M. Sensi) </small><br>
 <small>Journal of Theoretical Biology, 2021.</small>
 </li>
@@ -106,7 +106,7 @@ classes: wide
 </li>
 
 <li>
-<em><a href="https://www.sciencedirect.com/science/article/pii/S0022039615005884" target="_blank" rel="noopener noreferrer">Analysis of a slow fast system near a cusp singularity</a></em><a href="https://arxiv.org/abs/1506.08679" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[arXiv]</a><br>
+<em><a href="https://www.sciencedirect.com/science/article/pii/S0022039615005884" target="_blank" rel="noopener noreferrer">Analysis of a slow fast system near a cusp singularity</a></em> <a href="https://arxiv.org/abs/1506.08679" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[arXiv]</a><br>
 <small>(with H. W. Broer and R. Roussarie)</small><br>
 <small>Journal of Differential Equations, 2016.</small>
 </li>
