@@ -7,13 +7,19 @@ title: Publications
 
 #### Pre-prints:
 
-0. The hyperbolic umbilic singularity in fast-slow systems [[arXiv version]](https://arxiv.org/abs/2202.01662)
+<ol reversed="">
 
-(with C. Kuehn and M. Steinert)
+<li>
+<em>The hyperbolic umbilic singularity in fast-slow systems</em> <span><a href="https://arxiv.org/abs/2202.01662">[arXiv]</a></span> <br>
+<small>(with C. Kuehn and M. Steinert) </small>
+</li>
 
-0. Slow-fast torus knots [[arXiv version]](http://arxiv.org/abs/2103.05989)
+<li>
+<em>Slow-fast torus knots</em> <span><a href="http://arxiv.org/abs/2103.05989">[arXiv]</a></span> <br>
+<small>(with R. Huzak) </small>
+</li>
 
-{: reversed="reversed"}
+</ol>
 
 
 #### Journals:
