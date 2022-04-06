@@ -2,6 +2,27 @@
 permalink: /teaching/
 layout: single
 author_profile: true
+title: Teaching
 ---
 
-here goes info about teaching
+#### 2022/2023
+* Perturbation Theory
+* Multivariable Analysis
+
+#### 2021/2022
+* Calculus 1
+* Caput Dynamical Systems & Chaos
+* Project Chaos Theory
+
+#### 2020/2021
+* Calculus 1
+* Caput Dynamical Systems & Chaos
+* Project Chaos Theory
+
+#### 2015-2018
+* Mechatronics
+
+#### 2008-2011
+* Robotics 1
+* Robotics 2
+* Control of Electric Machines
