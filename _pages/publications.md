@@ -135,16 +135,21 @@ classes: wide
 #### Conference proceedings:
 
 <ol reversed><li>
-<span><em>A survey on the blow-up method for fast-slow systems</em></span> <span style="color:#ff0000;"><span><a href="http://arxiv.org/abs/1901.01402" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[arXiv]</a><span style="color:#000000;">,<br></span></span></span><small>H. Jardón-Kojakhmetov and C. Kuehn.</small>
+<span><em>A survey on the blow-up method for fast-slow systems</em></span> <span style="color:#ff0000;"><span><a href="http://arxiv.org/abs/1901.01402" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[arXiv]</a><span style="color:#000000;">,<br></span></span></span>
+<small>(with C. Kuehn)</small>
 <br><small>Mexican Mathematicians in the World: Trends and Recent Contributions, Contemporary Mathematics (AMS), 2021.</small>
 </li>
   
-<li><a title="NonLinear2017" rel="noopener noreferrer" href="https://hildejkcom.files.wordpress.com/2018/05/nonlinear2017.pdf" target="_blank"><em>Nonlinear adaptive stabilization of a class of planar slow-fast systems at a non-hyperbolic point</em></a><strong><br></strong><small>H. Jardón-Kojakhmetov, J. M. A. Scherpen and D. del Puerto-Flores.</small><br><small>American Control Conference 2017.</small></li>
+<li><a title="NonLinear2017" rel="noopener noreferrer" href="https://hildejkcom.files.wordpress.com/2018/05/nonlinear2017.pdf" target="_blank"><em>Nonlinear adaptive stabilization of a class of planar slow-fast systems at a non-hyperbolic point</em></a><br>
+<small>(with J. M. A. Scherpen and D. del Puerto-Flores)</small><br><small>American Control Conference 2017.</small></li>
   
-<li><a rel="noopener noreferrer" href="https://www.rug.nl/research/portal/files/35515263/0036.pdf" target="_blank"><em>Stabilization of a planar slow-fast system at a non-hyperbolic point</em></a><strong><br></strong><small>H. Jardón-Kojakhmetov and J. M. A. Scherpen.</small><br><small>Mathematical Theory of Networks and Systems 2016.</small></li>
+<li><a rel="noopener noreferrer" href="https://www.rug.nl/research/portal/files/35515263/0036.pdf" target="_blank"><em>Stabilization of a planar slow-fast system at a non-hyperbolic point</em></a><br>
+<small>(with J. M. A. Scherpen)</small><br><small>Mathematical Theory of Networks and Systems 2016.</small></li>
   
-<li><a href="https://www.sciencedirect.com/science/article/pii/S2405896316318493"><em>Model order reduction of a flexible-joint robot: a port-Hamiltonian approach</em></a><strong><br></strong><small>H. Jardón-Kojakhmetov, M. Munoz-Arias and J. M. A. Scherpen.</small><br><small>IFAC Symposium on Nonlinear Control Systems 2016.</small></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2405896316318493"><em>Model order reduction of a flexible-joint robot: a port-Hamiltonian approach</em></a><strong><br></strong>
+<small>(with M. Munoz-Arias and J. M. A. Scherpen)</small><br><small>IFAC Symposium on Nonlinear Control Systems 2016.</small></li>
   
-<li><em><a href="https://hildejkcom.files.wordpress.com/2021/03/amca2009.pdf" target="_blank" rel="noreferrer noopener">Estabilización de Redes Complejas Fraccionarias de Sistemas de Lorenz y Sistemas de Chen</a></em><strong><br></strong><small>R. Martínez-Martínez, H. Jardón-Kojakhmetov, J. A. León and G. Fernández-Anaya</small><br><small>Congreso de la Asociación de México de Control Automático, 2009.</small></li></ol>
+<li><em><a href="https://hildejkcom.files.wordpress.com/2021/03/amca2009.pdf" target="_blank" rel="noreferrer noopener">Estabilización de Redes Complejas Fraccionarias de Sistemas de Lorenz y Sistemas de Chen</a></em><strong><br></strong>
+<small>(with R. Martínez-Martínez, J. A. León and G. Fernández-Anaya)</small><br><small>Congreso de la Asociación de México de Control Automático, 2009.</small></li></ol>
 
 
