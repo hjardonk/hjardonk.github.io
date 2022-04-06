@@ -104,11 +104,11 @@ analytics:
 author:
   name             : " "
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "..."
+  bio              : ""
   location         : "University of Groningen, NL"
   # email            : "h.jardon.kojakhmetov@rug.nl"
   links:
-    - label: "Email"
+    - label: "e-mail me"
       #icon: "fas fa-fw fa-envelope-square"
       icon: "fas fa-paper-plane"
       url: "mailto:h.jardon.kojakhmetov@rug.nl"
