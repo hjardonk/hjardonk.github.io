@@ -3,6 +3,7 @@ permalink: /cv/
 layout: single
 author_profile: true
 title: CV
+classes: wide
 ---
 
 #### Positions:
