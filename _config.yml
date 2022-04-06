@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : " "
-  avatar           : "/assets/images/HJK_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # "/assets/images/HJK_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "University of Groningen, NL"
   # email            : "h.jardon.kojakhmetov@rug.nl"
