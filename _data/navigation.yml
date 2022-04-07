@@ -15,7 +15,7 @@ main:
     description: Here you can see a list of my publications
   - title: "CV"
     url: /cv/
-  - title "Mentoring"
+  - title: "Mentoring"
     url: /mentoring/
   - title: "Teaching"
     url: /teaching/
