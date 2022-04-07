@@ -10,7 +10,7 @@ classes: wide
 
 <font size="3">*Open positions are advertised here when available.</font>
 
-<font size="3">*Mexican candidates may be interested in: <a href="https://www.rug.nl/about-ug/profile/internationalization/global-focus/latin-america/conacyt-full-phd-scholarships?lang=en">this</a> and <a href="https://www.rug.nl/about-ug/profile/internationalization/global-focus/latin-america/unam-ug-double-degree-phd-program?lang=en">this</a>.</font><br/>
+<font size="3">*Mexican candidates may be interested in: <a href="https://www.rug.nl/about-ug/profile/internationalization/global-focus/latin-america/conacyt-full-phd-scholarships?lang=en">this</a> and <a href="https://www.rug.nl/about-ug/profile/internationalization/global-focus/latin-america/unam-ug-double-degree-phd-program?lang=en">this</a>.</font>
 
 ### Current:
 * Riccardo Bonetto (RUG, 2021-)
