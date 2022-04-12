@@ -24,7 +24,6 @@ classes: wide
 I am happy to supervise Bachelor and Master projects. 
 Please take a look at my research and contact me if any of it is of your interest.
 
-{::options parse_block_html="true" /}
 <details>
   <summary markdown="span">Click here to see the brief description of somme currently available projects.</summary>
   
@@ -44,10 +43,7 @@ Please take a look at my research and contact me if any of it is of your interes
 </details>
 
 <br/>
-{::options parse_block_html="false" /}
 
-  
-  
 ### Current:
 
 * Milou Aukes (2022)
