@@ -25,7 +25,7 @@ I am happy to supervise Bachelor and Master projects.
 Please take a look at my research and contact me if any of it is of your interest.
 
 <details>
-  <summary markdown="span">Click here to see the brief description of somme currently available projects.</summary>
+  <summary markdown="span">Click here to see the brief description of some currently available projects (2022).</summary>
   
   <dl>
     <dt> Mathematical model of a Spiking Phase Locked Loop </dt>
