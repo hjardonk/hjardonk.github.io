@@ -26,6 +26,7 @@ Please take a look at my research and contact me if any of it is of your interes
 
 {::options parse_block_html="true" /}
 <details><summary markdown="span">Click here to see the brief description of somme currently available projects.</summary>
+  
   <dl>
     <dt> Mathematical model of a Spiking Phase Locked Loop </dt>
     <dd> A phase-locked loop (PLL) is an input-output system that relates the phase of the output with that of the input in some desired way. There exist several types of PLLs and their applications have been extremely broad. Recently, a new type of PLL has been envisioned: the spiking PLL (sPLL), which plays a fundamental role in the development of innovative Neuromorphic Devices. The aim of the project is to develop a mathematical model, based on ODEs, of an sPLL, which can further be used to aid in the design of neuromorphic devices. This project is in collaboration with the <a href="https://www.rug.nl/research/zernike/bio-inspired-circuits-and-systems/chicca-group/"> Bio-inspired Circuits and Systems research group</a>. </dd>
@@ -39,6 +40,7 @@ Please take a look at my research and contact me if any of it is of your interes
     <dd> Singularities in slow-fast sustems give rise to complicated phenomena like relaxation oscillations, canards and mixed-mode oscilations. One of the most common singularities is the so-called fold singularity, which indeed can be related to the aforementioned phenomena. In this project we want to understand how folded singularities, and their nerby dynamics, interact with other singularities.</dd>
   </dl> 
 </details>
+
 <br/>
 {::options parse_block_html="false" /}
 
