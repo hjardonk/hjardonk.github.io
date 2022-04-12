@@ -25,7 +25,6 @@ I am happy to supervise Bachelor and Master projects.
 Please take a look at my research and contact me if any of it is of your interest.
 
 {::options parse_block_html="true" /}
-
 <details><summary markdown="span">Click here to see the brief description of somme currently available projects.</summary>
   <dl>
     <dt> Mathematical model of a Spiking Phase Locked Loop </dt>
@@ -39,9 +38,12 @@ Please take a look at my research and contact me if any of it is of your interes
     <dt> Interaction of different singularites in slow-fast systems</dt>
     <dd> Singularities in slow-fast sustems give rise to complicated phenomena like relaxation oscillations, canards and mixed-mode oscilations. One of the most common singularities is the so-called fold singularity, which indeed can be related to the aforementioned phenomena. In this project we want to understand how folded singularities, and their nerby dynamics, interact with other singularities.</dd>
   </dl> 
+</details>
 <br/>
 {::options parse_block_html="false" /}
 
+  
+  
 ### Current:
 
 * Milou Aukes (2022)
