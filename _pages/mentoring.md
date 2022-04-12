@@ -42,7 +42,6 @@ Please take a look at my research and contact me if any of it is of your interes
   
 </details>
 
-<br/>
 
 ### Current:
 
