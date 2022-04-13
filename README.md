@@ -1,4 +1,4 @@
-Repository for my academic webpage base on (forked from) [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+Repository for my academic webpage based on (forked from) [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 <!-- 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
