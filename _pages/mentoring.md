@@ -45,8 +45,7 @@ Please take a look at my research and contact me if any of it is of your interes
 
 ### Current:
 
-* Milou Aukes (2022)
-* Timo Hilverts (2022)
+* Milou Aukes
 
 ### Former:
 * Kumar Harsha. "Bifurcations on and Symmetrization of Digraphs", TUM, 2019. 
