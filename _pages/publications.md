@@ -11,7 +11,7 @@ classes: wide
 <ol reversed="">
 
 <li>
-<em>Discrete-timeLayered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources
+<em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources
 </em> <br>
 <small>(with S. Cui, F. Liu, and M. Cao) </small>
 </li>  
