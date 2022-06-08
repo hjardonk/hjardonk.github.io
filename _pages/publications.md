@@ -11,6 +11,12 @@ classes: wide
 <ol reversed="">
 
 <li>
+<em>Discrete-timeLayered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources
+</em> <br>
+<small>(with S. Cui, F. Liu, and M. Cao) </small>
+</li>  
+  
+<li>
 <em>The hyperbolic umbilic singularity in fast-slow systems</em> <span><a href="https://arxiv.org/abs/2202.01662" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
 <small>(with C. Kuehn and M. Steinert) </small>
 </li>
