@@ -11,6 +11,12 @@ classes: wide
 <ol reversed="">
 
 <li>
+<em>Nonlinear Laplacian Dynamics: Symmetries, Perturbations, and Consensus
+</em> <br>
+<small>(with R. Bonetto) </small>
+</li>  
+  
+<li>
 <em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources
 </em> <br>
 <small>(with S. Cui, F. Liu, and M. Cao) </small>
