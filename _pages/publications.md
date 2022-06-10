@@ -12,7 +12,7 @@ classes: wide
 
 <li>
 <em>Nonlinear Laplacian Dynamics: Symmetries, Perturbations, and Consensus
-</em> <br>
+</em> <span><a href="https://arxiv.org/abs/2206.04442" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
 <small>(with R. Bonetto) </small>
 </li>  
   
