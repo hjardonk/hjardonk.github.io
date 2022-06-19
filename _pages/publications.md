@@ -18,7 +18,7 @@ classes: wide
   
 <li>
 <em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources
-</em> <br>
+</em> <span><a href="https://arxiv.org/abs/2206.07425" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
 <small>(with S. Cui, F. Liu, and M. Cao) </small>
 </li>  
   
