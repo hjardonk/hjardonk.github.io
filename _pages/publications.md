@@ -27,10 +27,6 @@ classes: wide
 <small>(with C. Kuehn and M. Steinert) </small>
 </li>
 
-<li>
-<em>Slow-fast torus knots</em> <span><a href="http://arxiv.org/abs/2103.05989" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
-<small>(with R. Huzak) </small>
-</li>
 
 </ol>
 
@@ -39,6 +35,14 @@ classes: wide
 
 <ol reversed="">
 
+<li>
+<em>Slow-fast torus knots</em> <span><a href="http://arxiv.org/abs/2103.05989" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
+<small>(with R. Huzak) </small>
+<br>
+<small>Accepted / to appear in the Bull. Belgian Math. Soc., 2022.</small>
+</li>
+  
+  
 <li>
 <a href="https://link.springer.com/article/10.1007%2Fs00285-021-01664-5" target="_blank" rel="noopener noreferrer"><em> A geometric analysis of the SIRS epidemiological model on a homogeneous network</em></a>
 <span> <a href="https://arxiv.org/abs/2011.02169" style="font-size:14px;color:#000000;">[arXiv]</a></span><br>
