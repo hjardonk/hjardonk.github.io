@@ -153,7 +153,7 @@ classes: wide
 <ol reversed><li>
 <span><em>A survey on the blow-up method for fast-slow systems</em></span> <span style="color:#ff0000;"><span><a href="http://arxiv.org/abs/1901.01402" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[arXiv]</a><span style="color:#000000;">,<br></span></span></span>
 <small>(with C. Kuehn)</small>
-<br><small>Mexican Mathematicians in the World: Trends and Recent Contributions, Contemporary Mathematics (AMS), 2021.</small>
+<br><small>Contemporary Mathematics, 2021, 775, pp. 115–160.</small>
 </li>
   
 <li><a title="NonLinear2017" rel="noopener noreferrer" href="https://hildejkcom.files.wordpress.com/2018/05/nonlinear2017.pdf" target="_blank"><em>Nonlinear adaptive stabilization of a class of planar slow-fast systems at a non-hyperbolic point</em></a><br>
