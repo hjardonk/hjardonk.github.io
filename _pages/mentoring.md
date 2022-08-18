@@ -45,9 +45,10 @@ Please take a look at my research and contact me if any of it is of your interes
 
 ### Current:
 
-* Milou Aukes
+
 
 ### Former:
+* Milou Aukes. "The Kuramoto model on ring networks of homogeneous phase-oscillators", RUG, 2022
 * Kumar Harsha. "Bifurcations on and Symmetrization of Digraphs", TUM, 2019. 
 * Tomoyuki van Ouwendorp. "Passivity analysis of a bursting neuron", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/15298/)
 * Sharon Verhoeff. "Numerical methods for parametric resonance", RUG, 2017. [[link]](https://fse.studenttheses.ub.rug.nl/15299/)
