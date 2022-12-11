@@ -45,10 +45,9 @@ Please take a look at my research and contact me if any of it is of your interes
 
 ### Current:
 
-* Timo Hilverts, RUG, 2022.
-
 
 ### Former:
+* Timo Hilverts, "The Kuramoto model on homogeneous ring networks for conformists and contrarians", RUG, 2022.
 * Milou Aukes. "The Kuramoto model on ring networks of homogeneous phase-oscillators", RUG, 2022
 * Kumar Harsha. "Bifurcations on and Symmetrization of Digraphs", TUM, 2019. 
 * Tomoyuki van Ouwendorp. "Passivity analysis of a bursting neuron", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/15298/)
