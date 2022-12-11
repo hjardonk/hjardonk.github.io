@@ -6,7 +6,7 @@ title: Teaching
 ---
 
 #### 2022/2023
-* Perturbation Theory <a onclick="ga('send', 'event', 'Downloads', 'Click', 'Lecture Notes Downloaded downloaded');" href="https://hildejk.xyz/uploads/Notes_on_Perturbation_Theory_v0_1.pdf">Lecture notes</a>
+* Perturbation Theory <a onclick="ga('send', 'event', 'Downloads', 'Click', 'Lecture Notes Downloaded downloaded');" href="https://hildejk.xyz/uploads/Notes_on_Perturbation_Theory_v0_1.pdf">(Lecture notes v1)</a>
 * Multivariable Analysis
 
 #### 2021/2022
