@@ -11,6 +11,12 @@ classes: wide
 <ol reversed="">
 
 <li>
+<em>Species Coexistence and Extinction Resulting from Higher-order Lokta-Volterra Two-Faction Competition
+</em> <br>
+<small>(with S. Cui, Q. Zhao and M. Cao) </small>
+</li>  
+  
+<li>
 <em>Simulation-based Reconstructed Diffusion provides accurate values of mobility in confined spaces, unveiling the effect of aging in Escherichia coli
 </em> <br>
 <small>(with L. Mantovanelli, D. S. Linnik, M. Punter, W. M. Smigiel, and B. Poolman) </small>
