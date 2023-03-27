@@ -10,41 +10,43 @@ classes: wide
 
 <ol reversed="">
 
-<li>
-<em>Species Coexistence and Extinction Resulting from Higher-order Lokta-Volterra Two-Faction Competition
-</em> <br>
-<small>(with S. Cui, Q. Zhao and M. Cao) </small>
-</li>  
-  
+  <li>
+  <em>Species Coexistence and Extinction Resulting from Higher-order Lokta-Volterra Two-Faction Competition
+  </em> <br>
+  <small>(with S. Cui, Q. Zhao and M. Cao) </small>
+  </li>  
+
+<!---
 <li>
 <em>Simulation-based Reconstructed Diffusion provides accurate values of mobility in confined spaces, unveiling the effect of aging in Escherichia coli
 </em> <br>
 <small>(with L. Mantovanelli, D. S. Linnik, M. Punter, W. M. Smigiel, and B. Poolman) </small>
 </li>  
+--->
   
-<li>
-<em>Stable Chimera States: A Geometric Singular Perturbation Approach
-</em> <span><a href="https://arxiv.org/abs/2301.07071" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
-<small>(with L. Venegas and M. Cao) </small>
-</li>  
-  
+  <li>
+  <em>Stable Chimera States: A Geometric Singular Perturbation Approach
+  </em> <span><a href="https://arxiv.org/abs/2301.07071" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
+  <small>(with L. Venegas and M. Cao) </small>
+  </li>  
 
-<li>
-<em>Nonlinear Laplacian Dynamics: Symmetries, Perturbations, and Consensus
-</em> <span><a href="https://arxiv.org/abs/2206.04442" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
-<small>(with R. Bonetto) </small>
-</li>  
-  
-<li>
-<em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources
-</em> <span><a href="https://arxiv.org/abs/2206.07425" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
-<small>(with S. Cui, F. Liu, and M. Cao) </small>
-</li>  
-  
-<li>
-<em>The hyperbolic umbilic singularity in fast-slow systems</em> <span><a href="https://arxiv.org/abs/2202.01662" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
-<small>(with C. Kuehn and M. Steinert) </small>
-</li>
+
+  <li>
+  <em>Nonlinear Laplacian Dynamics: Symmetries, Perturbations, and Consensus
+  </em> <span><a href="https://arxiv.org/abs/2206.04442" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
+  <small>(with R. Bonetto) </small>
+  </li>  
+
+  <li>
+  <em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources
+  </em> <span><a href="https://arxiv.org/abs/2206.07425" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
+  <small>(with S. Cui, F. Liu, and M. Cao) </small>
+  </li>  
+
+  <li>
+  <em>The hyperbolic umbilic singularity in fast-slow systems</em> <span><a href="https://arxiv.org/abs/2202.01662" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
+  <small>(with C. Kuehn and M. Steinert) </small>
+  </li>
 
 
 </ol>
