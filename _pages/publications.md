@@ -58,7 +58,7 @@ classes: wide
   
 
 <li>
-<a href="[https://link.springer.com/article/10.1007%2Fs00285-021-01664-5](https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin/volume-29/issue-3/Slow-fast-torus-knots/10.36045/j.bbms.220208.short)" target="_blank" rel="noopener noreferrer"><em>Slow-fast torus knots</em></a> <span><a href="http://arxiv.org/abs/2103.05989" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
+<a href="https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin/volume-29/issue-3/Slow-fast-torus-knots/10.36045/j.bbms.220208.short" target="_blank" rel="noopener noreferrer"><em>Slow-fast torus knots</em></a> <span><a href="http://arxiv.org/abs/2103.05989" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
 <small>(with R. Huzak) </small>
 <br>
 <small>Bull. Belgian Math. Soc., 2022.</small>
