@@ -10,6 +10,20 @@ classes: wide
 
 <ol reversed="">
 
+  <!---
+  <li>
+  <em>Synchronization of heterogeneous networks with time-dependent linear diffusive coupling
+  </em> <br>
+  <small>(with C. Kuehn and I. Longo) </small>
+  </li>  
+  
+   <li>
+  <em>A topological perspective on singular canards for critical sets with transverse intersections
+  </em> <br>
+  <small>(with R. Bonetto) </small>
+  </li>  
+  -->
+  
   <li>
   <em>Species Coexistence and Extinction Resulting from Higher-order Lokta-Volterra Two-Faction Competition
   </em> <br>
