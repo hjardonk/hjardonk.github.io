@@ -20,7 +20,7 @@ classes: wide
   
    <li>
   <em>A topological perspective on singular canards for critical sets with transverse intersections
-  </em> <br>
+  </em> <span><a href="https://arxiv.org/abs/2304.10822" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
   <small>(with R. Bonetto) </small>
   </li>  
 
