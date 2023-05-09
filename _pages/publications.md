@@ -12,8 +12,7 @@ classes: wide
 
   <!---
   <li>
-  <em>Synchronization of heterogeneous networks with time-dependent linear diffusive coupling
-  </em> <br>
+  <em>Persistent synchronization of heterogeneous networks with time-dependent linear diffusive coupling</em> <br>
   <small>(with C. Kuehn and I. Longo) </small>
   </li>  
     -->
