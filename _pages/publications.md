@@ -10,13 +10,13 @@ classes: wide
 
 <ol reversed="">
 
-  <!---
+
   <li>
-  <em>Persistent synchronization of heterogeneous networks with time-dependent linear diffusive coupling</em> <br>
+  <em>Persistent synchronization of heterogeneous networks with time-dependent linear diffusive coupling</em>
+    <span><a href="http://arxiv.org/abs/2305.05747" target="_blank" rel="noopener noreferrer">[arXiv]</a></span><br>
   <small>(with C. Kuehn and I. Longo) </small>
   </li>  
-    -->
-  
+
    <li>
   <em>A topological perspective on singular canards for critical sets with transverse intersections
   </em> <span><a href="https://arxiv.org/abs/2304.10822" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
