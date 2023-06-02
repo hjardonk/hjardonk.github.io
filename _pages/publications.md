@@ -9,7 +9,12 @@ classes: wide
 #### Pre-prints:
 
 <ol reversed="">
-
+  
+  <li>
+  <em>General SIS diffusion process with indirect spreading pathways on a hypergraph
+  </em> <span><a href="https://arxiv.org/abs/2306.00619" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
+  <small>(with S. Cui, F. Liu, and M. Cao) </small>
+  </li> 
 
   <li>
   <em>Persistent synchronization of heterogeneous networks with time-dependent linear diffusive coupling</em>
