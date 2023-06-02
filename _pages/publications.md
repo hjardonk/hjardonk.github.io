@@ -78,7 +78,7 @@ classes: wide
 
 <li>  
   <a href="https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin/volume-29/issue-3/Slow-fast-torus-knots/10.36045/j.bbms.220208.short" target="_blank" rel="noopener noreferrer"><em> Slow-fast torus knots</em></a> 
-  <span><a href="http://arxiv.org/abs/2103.05989" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
+  <span><a href="http://arxiv.org/abs/2103.05989" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[arXiv]</a></span> <br>
 <small>(with R. Huzak) </small>
 <br>
 <small>Bull. Belgian Math. Soc., 2022.</small>
@@ -87,7 +87,7 @@ classes: wide
   
 <li>
 <a href="https://link.springer.com/article/10.1007%2Fs00285-021-01664-5" target="_blank" rel="noopener noreferrer"><em> A geometric analysis of the SIRS epidemiological model on a homogeneous network</em></a>
-<span> <a href="https://arxiv.org/abs/2011.02169" style="font-size:14px;color:#000000;">[arXiv]</a></span><br>
+<span> <a href="https://arxiv.org/abs/2011.02169" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[arXiv]</a></span><br>
 <small>(with C. Kuehn, A. Pugliese, and M. Sensi) </small><br>
 <small>Journal of Theoretical Biology, 2021.</small>
 </li>
