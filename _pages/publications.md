@@ -22,12 +22,6 @@ classes: wide
   <small>(with C. Kuehn and I. Longo) </small>
   </li>  
 
-   <li>
-  <em>A topological perspective on singular canards for critical sets with transverse intersections
-  </em> <span><a href="https://arxiv.org/abs/2304.10822" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
-  <small>(with R. Bonetto) </small>
-  </li>  
-
   
   <li>
   <em>Species Coexistence and Extinction Resulting from Higher-order Lokta-Volterra Two-Faction Competition
@@ -192,7 +186,14 @@ classes: wide
 
 #### Conference proceedings:
 
-<ol reversed><li>
+<ol reversed>
+  <li>
+  <em>A topological perspective on singular canards for critical sets with transverse intersections
+  </em> <span><a href="https://arxiv.org/abs/2304.10822" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
+  <small>(with R. Bonetto) </small>
+  </li>  
+  
+  <li>
 <span><em>A survey on the blow-up method for fast-slow systems</em></span> <span style="color:#ff0000;"><span><a href="http://arxiv.org/abs/1901.01402" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[arXiv]</a><span style="color:#000000;">,<br></span></span></span>
 <small>(with C. Kuehn)</small>
 <br><small>Contemporary Mathematics, 2021, 775, pp. 115–160.</small>
