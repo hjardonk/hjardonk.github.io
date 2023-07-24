@@ -186,7 +186,7 @@ classes: wide
 <ol reversed>
 
   <li>
-  <em>Species Coexistence and Extinction Resulting from Higher-order Lokta-Volterra Two-Faction Competition
+  <em>Species Coexistence and Extinction Resulting from Higher-order Loktka-Volterra Two-Faction Competition
   </em>  <br>
   <small>(with S. Cui, Q. Zhao and M. Cao) </small><br>
   <small> 62nd IEEE Conference on Decision and Control, 2023 </small>
