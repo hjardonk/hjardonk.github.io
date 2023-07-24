@@ -23,11 +23,7 @@ classes: wide
   </li>  
 
   
-  <li>
-  <em>Species Coexistence and Extinction Resulting from Higher-order Lokta-Volterra Two-Faction Competition
-  </em> <br>
-  <small>(with S. Cui, Q. Zhao and M. Cao) </small>
-  </li>  
+  
 
 <li>
 <em>Simulation-based Reconstructed Diffusion provides accurate values of mobility in confined spaces, unveiling the effect of aging in Escherichia coli
@@ -49,11 +45,7 @@ classes: wide
   <small>(with R. Bonetto) </small>
   </li>  
 
-  <li>
-  <em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources
-  </em> <span><a href="https://arxiv.org/abs/2206.07425" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
-  <small>(with S. Cui, F. Liu, and M. Cao) </small>
-  </li>  
+  
 
   <li>
   <em>The hyperbolic umbilic singularity in fast-slow systems</em> <span><a href="https://arxiv.org/abs/2202.01662" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
@@ -68,7 +60,12 @@ classes: wide
 
 <ol reversed="">
   
-  
+   <li>
+  <em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources
+  </em> <span><a href="https://arxiv.org/abs/2206.07425" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
+  <small>(with S. Cui, F. Liu, and M. Cao) </small><br>
+     <small> Accepted / To appear in Automatica </small>
+  </li> 
 
 <li>  
   <a href="https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin/volume-29/issue-3/Slow-fast-torus-knots/10.36045/j.bbms.220208.short" target="_blank" rel="noopener noreferrer"><em> Slow-fast torus knots</em></a> 
@@ -187,6 +184,13 @@ classes: wide
 #### Conference proceedings:
 
 <ol reversed>
+
+  <li>
+  <em>Species Coexistence and Extinction Resulting from Higher-order Lokta-Volterra Two-Faction Competition
+  </em>, CDC 2023 <br>
+  <small>(with S. Cui, Q. Zhao and M. Cao) </small>
+  </li>  
+  
   <li>
   <em>A topological perspective on singular canards for critical sets with transverse intersections
   </em> <span><a href="https://arxiv.org/abs/2304.10822" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
