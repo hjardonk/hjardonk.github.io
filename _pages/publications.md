@@ -187,8 +187,9 @@ classes: wide
 
   <li>
   <em>Species Coexistence and Extinction Resulting from Higher-order Lokta-Volterra Two-Faction Competition
-  </em>, CDC 2023 <br>
-  <small>(with S. Cui, Q. Zhao and M. Cao) </small>
+  </em>  <br>
+  <small>(with S. Cui, Q. Zhao and M. Cao) </small><br>
+  <small> 62nd IEEE Conference on Decision and Control, 2023 </small>
   </li>  
   
   <li>
