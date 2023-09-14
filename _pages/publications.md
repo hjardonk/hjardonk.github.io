@@ -23,15 +23,6 @@ classes: wide
   </li>  
 
   
-  
-
-<li>
-<em>Simulation-based Reconstructed Diffusion provides accurate values of mobility in confined spaces, unveiling the effect of aging in Escherichia coli
-</em> <br>
-<small>(with L. Mantovanelli, D. S. Linnik, M. Punter, W. M. Smigiel, and B. Poolman) </small>
-</li>  
-
-  
   <li>
   <em>Stable Chimera States: A Geometric Singular Perturbation Approach
   </em> <span><a href="https://arxiv.org/abs/2301.07071" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
@@ -59,6 +50,14 @@ classes: wide
 #### Journals:
 
 <ol reversed="">
+
+<li>
+<a href="https://pubmed.ncbi.nlm.nih.gov/37695774/" target="_blank" rel="noopener noreferrer"><em> Simulation-based Reconstructed Diffusion provides accurate values of mobility in confined spaces, unveiling the effect of aging in Escherichia coli</em></a> 
+ <br>
+<small>(with L. Mantovanelli, D. S. Linnik, M. Punter, W. M. Smigiel, and B. Poolman) <br>
+PLoS Comput Biol. 2023 
+</small>
+</li>  
   
    <li>
   <em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources
