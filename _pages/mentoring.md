@@ -2,7 +2,7 @@
 permalink: /mentoring/
 layout: single
 author_profile: true
-title: Mentoring & (co-)Supervision
+title: Supervision & Mentoring
 classes: wide
 ---
 
