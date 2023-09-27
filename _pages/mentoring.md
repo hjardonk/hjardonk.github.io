@@ -17,9 +17,6 @@ classes: wide
 * Riccardo Bonetto (RUG, 2021-)
 * Shaoxuan Cui (RUG, 2022-)
 * Luis Venegas (RUG, 2020-)
- <!---
-* Maximilian Steinert (TUM, 2020-)
--->
 
 
 ## Master and Bachelor
