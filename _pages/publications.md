@@ -203,7 +203,7 @@ PLoS Comput Biol. 2023
 <br><small>Contemporary Mathematics, 2021, 775, pp. 115–160.</small>
 </li>
   
-<li><a title="NonLinear2017" rel="noopener noreferrer" href="https://hildejkcom.files.wordpress.com/2018/05/nonlinear2017.pdf" target="_blank"><em>Nonlinear adaptive stabilization of a class of planar slow-fast systems at a non-hyperbolic point</em></a><br>
+<li><a title="NonLinear2017" rel="noopener noreferrer" href="https://pure.rug.nl/ws/portalfiles/portal/50534300/07963319.pdf" target="_blank"><em>Nonlinear adaptive stabilization of a class of planar slow-fast systems at a non-hyperbolic point</em></a><br>
 <small>(with J. M. A. Scherpen and D. del Puerto-Flores)</small><br><small>American Control Conference 2017.</small></li>
   
 <li><a rel="noopener noreferrer" href="https://www.rug.nl/research/portal/files/35515263/0036.pdf" target="_blank"><em>Stabilization of a planar slow-fast system at a non-hyperbolic point</em></a><br>
@@ -212,7 +212,7 @@ PLoS Comput Biol. 2023
 <li><a href="https://www.sciencedirect.com/science/article/pii/S2405896316318493"><em>Model order reduction of a flexible-joint robot: a port-Hamiltonian approach</em></a><strong><br></strong>
 <small>(with M. Munoz-Arias and J. M. A. Scherpen)</small><br><small>IFAC Symposium on Nonlinear Control Systems 2016.</small></li>
   
-<li><em><a href="https://hildejkcom.files.wordpress.com/2021/03/amca2009.pdf" target="_blank" rel="noreferrer noopener">Estabilización de Redes Complejas Fraccionarias de Sistemas de Lorenz y Sistemas de Chen</a></em><strong><br></strong>
+<li><em><a href="https://www.researchgate.net/publication/259693995_Estabilizacion_de_redes_complejas_fraccionarias_de_sistemas_de_Lorenz_modificados_y_sistemas_de_Chen?channel=doi&linkId=0f31752d5c1ba09be7000000&showFulltext=true" target="_blank" rel="noreferrer noopener">Estabilización de Redes Complejas Fraccionarias de Sistemas de Lorenz y Sistemas de Chen</a></em><strong><br></strong>
 <small>(with R. Martínez-Martínez, J. A. León and G. Fernández-Anaya)</small><br><small>Congreso de la Asociación de México de Control Automático, 2009.</small></li></ol>
 
 
