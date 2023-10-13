@@ -9,6 +9,11 @@ classes: wide
 #### Pre-prints:
 
 <ol reversed="">
+
+  <li>
+  <em>On network dynamical systems with a nilpotent singularity</em> <br>
+  <small>(with C. Kuehn) </small>
+  </li>
   
   <li>
   <em>General SIS diffusion process with indirect spreading pathways on a hypergraph
