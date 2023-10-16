@@ -11,7 +11,7 @@ classes: wide
 <ol reversed="">
 
   <li>
-  <em>On network dynamical systems with a nilpotent singularity</em> <br>
+  <em>On network dynamical systems with a nilpotent singularity</em> <span><a href="https://arxiv.org/abs/2310.08947" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
   <small>(with C. Kuehn) </small>
   </li>
   
