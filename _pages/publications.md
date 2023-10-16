@@ -54,6 +54,8 @@ classes: wide
 
 #### Journals:
 
+*Titles link to published version.
+
 <ol reversed="">
 
 <li>
@@ -65,8 +67,8 @@ PLoS Comput Biol. 2023
 </li>  
   
    <li>
-  <em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources
-  </em> <span><a href="https://arxiv.org/abs/2206.07425" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
+  <a href=https://www.sciencedirect.com/science/article/pii/S0005109823004673" target="_blank" rel="noopener noreferrer"><em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources</em></a> 
+     <span><a href="https://arxiv.org/abs/2206.07425" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
   <small>(with S. Cui, F. Liu, and M. Cao) </small><br>
      <small> Accepted / To appear in Automatica </small>
   </li> 
