@@ -26,13 +26,6 @@ classes: wide
   <small>(with C. Kuehn and I. Longo) </small>
   </li>  
 
-  
-  <li>
-  <em>Stable Chimera States: A Geometric Singular Perturbation Approach
-  </em> <span><a href="https://arxiv.org/abs/2301.07071" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
-  <small>(with L. Venegas and M. Cao) </small>
-  </li>  
-
 
   <li>
   <em>Nonlinear Laplacian Dynamics: Symmetries, Perturbations, and Consensus
@@ -56,6 +49,14 @@ classes: wide
 *Titles link to published version.
 
 <ol reversed="">
+
+<li>
+  <em>Stable Chimera States: A Geometric Singular Perturbation Approach
+  </em> <span><a href="https://arxiv.org/abs/2301.07071" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
+  <small>(with L. Venegas and M. Cao) <br>
+  Accepted / to appear in Chaos, 2023
+  </small>
+  </li>  
 
 <li>
 <a href="https://pubmed.ncbi.nlm.nih.gov/37695774/" target="_blank" rel="noopener noreferrer"><em> Simulation-based Reconstructed Diffusion provides accurate values of mobility in confined spaces, unveiling the effect of aging in Escherichia coli</em></a> 
