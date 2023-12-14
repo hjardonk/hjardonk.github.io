@@ -205,7 +205,7 @@ PLoS Comput Biol. 2023
   </li>  
   
   <li>
-<span><a rel="noopener noreferrer" href="https://www.ams.org/books/conm/775/" target="_blank"><em>A survey on the blow-up method for fast-slow systems</em></span> <span style="color:#ff0000;"><span><a href="http://arxiv.org/abs/1901.01402" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[arXiv]</a><span style="color:#000000;">,<br></span></span></span>
+<span><a rel="noopener noreferrer" href="https://www.ams.org/books/conm/775/" target="_blank"><em>A survey on the blow-up method for fast-slow systems</em></a></span> <span style="color:#ff0000;"><span><a href="http://arxiv.org/abs/1901.01402" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[arXiv]</a><span style="color:#000000;">,<br></span></span></span>
 <small>(with C. Kuehn)</small>
 <br><small>Contemporary Mathematics, 2021, 775, pp. 115–160.</small>
 </li>
