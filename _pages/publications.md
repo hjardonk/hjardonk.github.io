@@ -52,7 +52,8 @@ classes: wide
 
 <li>
   <a href="https://pubs.aip.org/aip/cha/article-abstract/33/11/113123/2921784/Stable-chimera-states-A-geometric-singular?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer"><em>Stable Chimera States: A Geometric Singular Perturbation Approach
-  </em></a> <span><a href="https://arxiv.org/abs/2301.07071" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[arXiv]</a></span> <br>
+  </em></a> 
+  <span><a href="https://arxiv.org/abs/2301.07071" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[arXiv]</a></span> <br>
   <small>(with L. Venegas and M. Cao) <br>
   Accepted / to appear in Chaos, 2023
   </small>
