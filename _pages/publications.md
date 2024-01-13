@@ -10,6 +10,11 @@ classes: wide
 
 <ol reversed="">
 
+<li>
+  <em>On Metzler positive systems on hypergraphs </em><br>
+  <small>(with S. Cui, G. Zhang, and M. Cao) </small>
+  </li> 
+
   <li>
   <em>On network dynamical systems with a nilpotent singularity</em> <span><a href="https://arxiv.org/abs/2310.08947" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
   <small>(with C. Kuehn) </small>
@@ -17,7 +22,7 @@ classes: wide
   
   <li>
   <em>General SIS diffusion process with direct and indirect spreading on a hypergraph </em><br>
-  <small>(with S. Cui, F. Liu,L. Liang and M. Cao) </small>
+  <small>(with S. Cui, F. Liu, and M. Cao) </small>
   </li> 
 
   <li>
