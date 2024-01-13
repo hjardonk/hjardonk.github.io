@@ -11,7 +11,7 @@ classes: wide
 <ol reversed="">
 
 <li>
-  <em>On Metzler positive systems on hypergraphs </em><br>
+  <em>On Metzler positive systems on hypergraphs </em> <span><a href="https://arxiv.org/abs/2401.03652" target="_blank" rel="noopener noreferrer">[arXiv]</a></span><br>
   <small>(with S. Cui, G. Zhang, and M. Cao) </small>
   </li> 
 
