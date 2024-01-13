@@ -21,7 +21,7 @@ classes: wide
   </li>
   
   <li>
-  <em>General SIS diffusion process with direct and indirect spreading on a hypergraph </em><br>
+  <em>General SIS diffusion process with direct and indirect spreading on a hypergraph </em> <span><a href="https://arxiv.org/abs/2306.00619" target="_blank" rel="noopener noreferrer">[arXiv]</a></span> <br>
   <small>(with S. Cui, F. Liu, and M. Cao) </small>
   </li> 
 
