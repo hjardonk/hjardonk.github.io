@@ -25,11 +25,7 @@ classes: wide
   <small>(with S. Cui, F. Liu, and M. Cao) </small>
   </li> 
 
-  <li>
-  <em>Persistent synchronization of heterogeneous networks with time-dependent linear diffusive coupling</em>
-    <span><a href="http://arxiv.org/abs/2305.05747" target="_blank" rel="noopener noreferrer">[arXiv]</a></span><br>
-  <small>(with C. Kuehn and I. Longo) </small>
-  </li>  
+  
 
 
   <li>
@@ -54,6 +50,12 @@ classes: wide
 *Titles link to published version.
 
 <ol reversed="">
+
+<li>
+  <em>Persistent synchronization of heterogeneous networks with time-dependent linear diffusive coupling</em>
+    <span><a href="http://arxiv.org/abs/2305.05747" target="_blank" rel="noopener noreferrer">[arXiv]</a></span><br>
+  <small>(with C. Kuehn and I. Longo) </small>
+  </li>  
 
 <li>
   <a href="https://pubs.aip.org/aip/cha/article-abstract/33/11/113123/2921784/Stable-chimera-states-A-geometric-singular?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer"><em>Stable Chimera States: A Geometric Singular Perturbation Approach
@@ -198,8 +200,8 @@ PLoS Comput Biol. 2023
 <ol reversed>
 
   <li>
-  <em>Species Coexistence and Extinction Resulting from Higher-order Lotka-Volterra Two-Faction Competition
-  </em>  <br>
+  <span><a rel="noopener noreferrer" href="https://ieeexplore.ieee.org/document/10384227" target="_blank"><em>Species Coexistence and Extinction Resulting from Higher-order Lotka-Volterra Two-Faction Competition
+  </em></a></span> <br>
   <small>(with S. Cui, Q. Zhao and M. Cao) </small><br>
   <small> 62nd IEEE Conference on Decision and Control, 2023 </small>
   </li>  
