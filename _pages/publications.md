@@ -54,7 +54,9 @@ classes: wide
 <li>
   <em>Persistent synchronization of heterogeneous networks with time-dependent linear diffusive coupling</em>
     <span><a href="http://arxiv.org/abs/2305.05747" target="_blank" rel="noopener noreferrer">[arXiv]</a></span><br>
-  <small>(with C. Kuehn and I. Longo) </small>
+  <small>(with C. Kuehn and I. Longo) <br>
+  SIAM Journal of Applied Dynamical Systems
+  </small>
   </li>  
 
 <li>
