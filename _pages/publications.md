@@ -10,11 +10,12 @@ classes: wide
 
 <ol reversed="">
 
-<li>
+  <li>
   <em>Ergodicity in planar slow-fast systems through slow relation functions </em> <span><a href="https://arxiv.org/abs/2402.16511" target="_blank" rel="noopener noreferrer">[arXiv]</a></span><br>
   <small>(with R. Huzak and C. Kuehn) </small>
   </li> 
-  
+
+  <li>
   <em>On Metzler positive systems on hypergraphs </em> <span><a href="https://arxiv.org/abs/2401.03652" target="_blank" rel="noopener noreferrer">[arXiv]</a></span><br>
   <small>(with S. Cui, G. Zhang, and M. Cao) </small>
   </li> 
