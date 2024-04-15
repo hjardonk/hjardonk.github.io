@@ -8,7 +8,7 @@ classes: wide
 
 #### Positions:
 
-2020-present  | | Assistant Professor (tenure-track), University of Groningen
+2020-present  | | Assistant Professor (with tenure from 2024), University of Groningen
 2018-2020     | | Postdoctoral fellow, Technical University of Munich (with C. Kuehn)
 2017-2018     | | Postdoctoral researcher, University of Groningen (with B. Poolman)
 2017-2017     | | Postdoctoral researcher, University of Groningen (with J. M. A. Scherpen)
