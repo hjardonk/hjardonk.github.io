@@ -107,8 +107,8 @@ author:
   name             : " "
   avatar           : # "/assets/images/HJK_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
-  location         : "University of Groningen, NL\n Office: 5161.0494 "
-  # email            : "h.jardon.kojakhmetov@rug.nl"
+  location         : "University of Groningen, NL\\n Office: 5161.0494 "
+  email            : "h.jardon.kojakhmetov@rug.nl"
   links:
     - label: "e-mail me"
       #icon: "fas fa-fw fa-envelope-square"
