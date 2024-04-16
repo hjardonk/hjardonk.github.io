@@ -118,7 +118,7 @@ author:
       icon: "fab fa-researchgate"
       url: "https://www.researchgate.net/profile/Hildeberto-Jardon-Kojakhmetov"
     - label: "GoogleScholar"
-      icon: "fab fa-google"
+      icon: "fas fa-google"
       url: "https://scholar.google.nl/citations?user=-GstD3kAAAAJ&hl=en"
     - label: "Website"
       icon: "fas fa-fw fa-link"
