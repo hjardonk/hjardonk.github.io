@@ -11,7 +11,8 @@ classes: wide
 <ol reversed="">
 
  <li>
-  <em>On discrete-time polynomial dynamical systems on hypergraphs</em> <span><a href="https://arxiv.org/abs/2403.03416" target="_blank" rel="noopener noreferrer">[arXiv]</a></span><br>
+  <em>On discrete-time polynomial dynamical systems on hypergraphs</em> <span><a href="https://arxiv.org/abs/2403.03416" target="_blank" rel="noopener noreferrer">[arXiv]</a></span><br><i class="ai ai-arxiv"></i>
+
   <small>(with S. Cui, G. Zhang, and M. Cao) </small>
   </li> 
 
