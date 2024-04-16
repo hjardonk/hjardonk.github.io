@@ -143,15 +143,13 @@ PLoS Comput Biol. 2023
 
 <li>
 <a href="https://doi.org/10.1016/j.automatica.2018.10.008" target="_blank" rel="noopener noreferrer">
-<em>Stabilization of a class of slow-fast control systems at non-hyperbolic points</em></a>&nbsp;
-<a title="stabilization-class-slow-2" href="https://hildejkcom.files.wordpress.com/2018/05/stabilization-class-slow-2.pdf" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[Preprint]</a><br>
+<em>Stabilization of a class of slow-fast control systems at non-hyperbolic points</em></a>&nbsp;<br>
 <small>(with J. M. A. Scherpen, and D. del Puerto-Flores)</small><br>
 <small>Automatica, 2019.</small>
 </li>
 
 <li>
-<em><a title="improving-region-attraction-2" href="https://ieeexplore.ieee.org/document/8353454/" target="_blank" rel="noopener noreferrer">Improving the region of attraction of a non-hyperbolic point in slow-fast systems with one fast direction</a> </em>
-<a title="improving-region-attraction-2" href="https://hildejkcom.files.wordpress.com/2018/05/improving-region-attraction-2.pdf" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[Preprint]</a><br>
+<em><a title="improving-region-attraction-2" href="https://ieeexplore.ieee.org/document/8353454/" target="_blank" rel="noopener noreferrer">Improving the region of attraction of a non-hyperbolic point in slow-fast systems with one fast direction</a> </em><br>
 <small>(with J. M. A. Scherpen)</small><br>
 <small>IEEE Control Systems Letters, 2018.</small>
 </li>
@@ -163,7 +161,7 @@ PLoS Comput Biol. 2023
 </li>
 
 <li>
-<em><a href="https://ieeexplore.ieee.org/document/7926328/" target="_blank" rel="noopener noreferrer">Model order reduction and composite control for a class of slow-fast systems around a non-hyperbolic point</a></em> <a title="LCSYS2703983" href="https://hildejkcom.files.wordpress.com/2018/05/lcsys2703983.pdf" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[Preprint]</a><br>
+<em><a href="https://ieeexplore.ieee.org/document/7926328/" target="_blank" rel="noopener noreferrer">Model order reduction and composite control for a class of slow-fast systems around a non-hyperbolic point</a></em> <br>
 <small>(with J. M. A. Scherpen)</small><br>
 <small>IEEE Control Systems Letters, 2017.</small>
 </li>
