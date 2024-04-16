@@ -72,7 +72,7 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
 <li>
   <a href="https://pubs.aip.org/aip/cha/article-abstract/33/11/113123/2921784/Stable-chimera-states-A-geometric-singular?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer"><em>Stable Chimera States: A Geometric Singular Perturbation Approach
   </em></a> 
-  <span><a href="https://arxiv.org/abs/2301.07071" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;"><i class="ai ai-arxiv"></i></a></span> <br>
+  <span><a href="https://arxiv.org/abs/2301.07071" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a></span> <br>
   <small>(with L. Venegas and M. Cao) <br>
   Chaos, 2023
   </small>
@@ -88,14 +88,14 @@ PLoS Comput Biol. 2023
   
    <li>
   <a href="https://www.sciencedirect.com/science/article/pii/S0005109823004673" target="_blank" rel="noopener noreferrer"><em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources</em></a> 
-     <span><a href="https://arxiv.org/abs/2206.07425" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;"><i class="ai ai-arxiv"></i></a></span> <br>
+     <span><a href="https://arxiv.org/abs/2206.07425" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a></span> <br>
   <small>(with S. Cui, F. Liu, and M. Cao) </small><br>
      <small> Automatica, 2024 </small>
   </li> 
 
 <li>  
   <a href="https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin/volume-29/issue-3/Slow-fast-torus-knots/10.36045/j.bbms.220208.short" target="_blank" rel="noopener noreferrer"><em> Slow-fast torus knots</em></a> 
-  <span><a href="http://arxiv.org/abs/2103.05989" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;"><i class="ai ai-arxiv"></i></a></span> <br>
+  <span><a href="http://arxiv.org/abs/2103.05989" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a></span> <br>
 <small>(with R. Huzak) </small>
 <br>
 <small>Bull. Belgian Math. Soc., 2022.</small>
@@ -104,14 +104,14 @@ PLoS Comput Biol. 2023
   
 <li>
 <a href="https://link.springer.com/article/10.1007%2Fs00285-021-01664-5" target="_blank" rel="noopener noreferrer"><em> A geometric analysis of the SIRS epidemiological model on a homogeneous network</em></a>
-<span> <a href="https://arxiv.org/abs/2011.02169" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;"><i class="ai ai-arxiv"></i></a></span><br>
+<span> <a href="https://arxiv.org/abs/2011.02169" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a></span><br>
 <small>(with C. Kuehn, A. Pugliese, and M. Sensi) </small><br>
 <small>Journal of Theoretical Biology, 2021.</small>
 </li>
 
 <li>
 <a href="https://link.springer.com/article/10.1007/s10883-021-09553-2" target="_blank" rel="noopener noreferrer"><em>Controlling canard cycles</em></a>
-<span><a href="https://arxiv.org/abs/1911.11861" style="font-size:14px;color:#000000;"><i class="ai ai-arxiv"></i></a></span><br>
+<span><a href="https://arxiv.org/abs/1911.11861" style="color:#000000;"><i class="ai ai-arxiv"></i></a></span><br>
 <small>(with C. Kuehn) </small><br>
 <small>Journal of Dynamical and Control Systems, 2021.</small>
 </li>
@@ -123,20 +123,20 @@ PLoS Comput Biol. 2023
 </li>
 
 <li>
-<a href="https://www.sciencedirect.com/science/article/pii/S0022247X2030888X" target="_blank" rel="noopener noreferrer"><em>Geometric analysis of Oscillations in the Frzilator model</em></a> <span><a href="https://arxiv.org/abs/1912.00659" style="font-size:14px;color:#000000;"><i class="ai ai-arxiv"></i></a></span><br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0022247X2030888X" target="_blank" rel="noopener noreferrer"><em>Geometric analysis of Oscillations in the Frzilator model</em></a> <span><a href="https://arxiv.org/abs/1912.00659" style="color:#000000;"><i class="ai ai-arxiv"></i></a></span><br>
 <small>(with H. Tafgvafarad, P. Szmolyan and M. Cao)</small><br>
 <small>Journal of Mathematical Analysis and Applications, 2021.</small>
 </li>
 
 <li>
-<a href="https://epubs.siam.org/doi/abs/10.1137/20M1313611" target="_blank" rel="noopener noreferrer"><em>Extended and symmetric loss of stability for canards in planar fast-slow maps</em></a> <span><a href="https://arxiv.org/abs/1912.10286" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;"><i class="ai ai-arxiv"></i></a></span><br>
+<a href="https://epubs.siam.org/doi/abs/10.1137/20M1313611" target="_blank" rel="noopener noreferrer"><em>Extended and symmetric loss of stability for canards in planar fast-slow maps</em></a> <span><a href="https://arxiv.org/abs/1912.10286" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a></span><br>
 <small>(with M. Engel)</small><br>
 <small> SIAM Journal on Applied Dynamical Systems, 2020.</small>
 </li>
 
 <li>
 <a href="https://link.springer.com/article/10.1007/s00332-020-09634-9" target="_blank" rel="noopener noreferrer">
-<em>On Fast–Slow Consensus Networks with a Dynamic Weight</em></a> <span><a href="https://arxiv.org/abs/1904.02690" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;"><i class="ai ai-arxiv"></i></a></span> <br>
+<em>On Fast–Slow Consensus Networks with a Dynamic Weight</em></a> <span><a href="https://arxiv.org/abs/1904.02690" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a></span> <br>
 <small>(with C. Kuehn)</small><br>
 <small>Journal of Nonlinear Science, 2020.</small>
 </li>
@@ -181,13 +181,13 @@ PLoS Comput Biol. 2023
 </li>
 
 <li>
-<em><a href="https://www.sciencedirect.com/science/article/pii/S0022039615005884" target="_blank" rel="noopener noreferrer">Analysis of a slow fast system near a cusp singularity</a></em> <a href="https://arxiv.org/abs/1506.08679" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;">[arXiv]</a><br>
+<em><a href="https://www.sciencedirect.com/science/article/pii/S0022039615005884" target="_blank" rel="noopener noreferrer">Analysis of a slow fast system near a cusp singularity</a></em> <a href="https://arxiv.org/abs/1506.08679" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a><br>
 <small>(with H. W. Broer and R. Roussarie)</small><br>
 <small>Journal of Differential Equations, 2016.</small>
 </li>
 
 <li>
-<em><a href="https://www.sciencedirect.com/science/article/pii/S1631073X15001739"  target="_blank" rel="noopener noreferrer">Formal normal form of Ak slow-fast systems</a></em>&nbsp;<a href="https://arxiv.org/abs/1504.00122" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;"><i class="ai ai-arxiv"></i></a><br>
+<em><a href="https://www.sciencedirect.com/science/article/pii/S1631073X15001739"  target="_blank" rel="noopener noreferrer">Formal normal form of Ak slow-fast systems</a></em>&nbsp;<a href="https://arxiv.org/abs/1504.00122" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a><br>
 <small>Comptes Rendus Mathematique, 2015.</small>
 </li>
 
@@ -198,7 +198,7 @@ PLoS Comput Biol. 2023
 </li>
 
 <li>
-<em><a href="https://www.sciencedirect.com/science/article/pii/S0022039614001739" target="_blank" rel="noopener noreferrer">Polynomial normal forms of Constrained Differential Equations with three parameters</a></em> <a href="https://arxiv.org/abs/1401.3932" style="font-size:14px;color:#000000;"><i class="ai ai-arxiv"></i></a><br>
+<em><a href="https://www.sciencedirect.com/science/article/pii/S0022039614001739" target="_blank" rel="noopener noreferrer">Polynomial normal forms of Constrained Differential Equations with three parameters</a></em> <a href="https://arxiv.org/abs/1401.3932" style="color:#000000;"><i class="ai ai-arxiv"></i></a><br>
 <small>(with H. W. Broer)</small><br>
 <small>Journal of Differential Equations, 2014.</small>
 </li>
@@ -225,7 +225,7 @@ PLoS Comput Biol. 2023
   </li>  
   
   <li>
-<span><a rel="noopener noreferrer" href="https://www.ams.org/books/conm/775/" target="_blank"><em>A survey on the blow-up method for fast-slow systems</em></a></span> <span style="color:#ff0000;"><span><a href="http://arxiv.org/abs/1901.01402" target="_blank" rel="noopener noreferrer" style="font-size:14px;color:#000000;"><i class="ai ai-arxiv"></i></a><span style="color:#000000;">,<br></span></span></span>
+<span><a rel="noopener noreferrer" href="https://www.ams.org/books/conm/775/" target="_blank"><em>A survey on the blow-up method for fast-slow systems</em></a></span> <span style="color:#ff0000;"><span><a href="http://arxiv.org/abs/1901.01402" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a><span style="color:#000000;">,<br></span></span></span>
 <small>(with C. Kuehn)</small>
 <br><small>Contemporary Mathematics, 2021, 775, pp. 115–160.</small>
 </li>
