@@ -5,7 +5,7 @@ author_profile: true
 title: Supervision & Mentoring
 classes: wide
 ---
-https://github.com/hjardonk/hjardonk.github.io/blob/master/uploads/phd_advertisement%202024.pdf
+
 ## PhD
 
 <p>
