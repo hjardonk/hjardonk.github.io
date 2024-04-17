@@ -5,11 +5,11 @@ author_profile: true
 title: Supervision & Mentoring
 classes: wide
 ---
-
+https://github.com/hjardonk/hjardonk.github.io/blob/master/uploads/phd_advertisement%202024.pdf
 ## PhD
 
 <p>
- <font size="5">*Two PhD positions available:.</font><br />  
+   <a onclick="ga('send', 'event', 'Downloads', 'Click', 'phd advertisement');"href="https://hildejk.xyz/uploads/phd_advertisement%202024.pdf"><font size="5">*Two PhD positions available </font></a><br />
  <font size="3">*Mexican candidates may be interested in: <a href="https://www.rug.nl/about-ug/profile/internationalization/global-focus/latin-america/conacyt-full-phd-scholarships?lang=en">this</a> and <a href="https://www.rug.nl/about-ug/profile/internationalization/global-focus/latin-america/unam-ug-double-degree-phd-program?lang=en">this</a>.</font>
 </p>
 
