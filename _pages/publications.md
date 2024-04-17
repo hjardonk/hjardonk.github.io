@@ -6,7 +6,7 @@ title: Publications
 classes: wide
 ---
 
-Titles link to the published version while, when possible, <i class="ai ai-arxiv"> links to the arXiv version.
+Titles link to the published version while, when possible, <span><i class="ai ai-arxiv"></span> links to the arXiv version.
 
 #### Pre-prints:
 
