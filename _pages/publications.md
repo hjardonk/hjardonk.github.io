@@ -76,6 +76,13 @@ IEEE L-CSS, 2024
   </small>
   </li>  
 
+    <li>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0005109823004673" target="_blank" rel="noopener noreferrer"><em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources</em></a> 
+     <span><a href="https://arxiv.org/abs/2206.07425" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a></span> <br>
+  <small>(with S. Cui, F. Liu, and M. Cao) </small><br>
+     <small> Automatica, 2024 </small>
+  </li> 
+
 <li>
   <a href="https://pubs.aip.org/aip/cha/article-abstract/33/11/113123/2921784/Stable-chimera-states-A-geometric-singular?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer"><em>Stable Chimera States: A Geometric Singular Perturbation Approach
   </em></a> 
@@ -92,13 +99,6 @@ IEEE L-CSS, 2024
 PLoS Comput Biol. 2023 
 </small>
 </li>  
-  
-   <li>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0005109823004673" target="_blank" rel="noopener noreferrer"><em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources</em></a> 
-     <span><a href="https://arxiv.org/abs/2206.07425" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a></span> <br>
-  <small>(with S. Cui, F. Liu, and M. Cao) </small><br>
-     <small> Automatica, 2024 </small>
-  </li> 
 
 <li>  
   <a href="https://projecteuclid.org/journals/bulletin-of-the-belgian-mathematical-society-simon-stevin/volume-29/issue-3/Slow-fast-torus-knots/10.36045/j.bbms.220208.short" target="_blank" rel="noopener noreferrer"><em> Slow-fast torus knots</em></a> 
