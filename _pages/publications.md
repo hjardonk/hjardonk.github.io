@@ -12,9 +12,15 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
 
 <ol reversed="">
 
+
+<li>
+  <em>Strategic control for a Boltzmann like decision-making model</em></em> <span><a href="https://arxiv.org/abs/2405.10915" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+<small>(with l. Venegas-Pineda, M. Engel, J. Heitzig, M. Eser, and M. Cao)</small>
+  </li> 
+
  <li>
-  <em>On discrete-time polynomial dynamical systems on hypergraphs</em> <span><a href="https://arxiv.org/abs/2403.03416" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-<small>(with S. Cui, G. Zhang, and M. Cao) </small>
+  <em>On the analysis of a higher-order Lotka-Volterra model: an application of S-tensors and the polynomial complementarity problem</em></em> <span><a href="https://arxiv.org/abs/2405.18333" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+<small>(with S. Cui, Q, Zhao, G. Zhang, and M. Cao)</small>
   </li> 
 
   <li>
@@ -37,22 +43,16 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
   <small>(with S. Cui, F. Liu, and M. Cao) </small>
   </li> 
 
-  
-
-
   <li>
   <em>Nonlinear Laplacian Dynamics: Symmetries, Perturbations, and Consensus
   </em> <span><a href="https://arxiv.org/abs/2206.04442" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
   <small>(with R. Bonetto) </small>
   </li>  
 
-  
-
   <li>
   <em>The hyperbolic umbilic singularity in fast-slow systems</em> <span><a href="https://arxiv.org/abs/2202.01662" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
   <small>(with C. Kuehn and M. Steinert) </small>
   </li>
-
 
 </ol>
 
@@ -60,6 +60,13 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
 #### Journals:
 
 <ol reversed="">
+
+ <li>
+  <em>On discrete-time polynomial dynamical systems on hypergraphs</em> <span><a href="https://arxiv.org/abs/2403.03416" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+<small>(with S. Cui, G. Zhang, and M. Cao) <br>
+IEEE L-CSS, 2024
+</small>
+  </li> 
 
 <li>
   <em>Persistent synchronization of heterogeneous networks with time-dependent linear diffusive coupling</em>
