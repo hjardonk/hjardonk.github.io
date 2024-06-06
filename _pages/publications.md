@@ -14,12 +14,12 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
 
 
 <li>
-  <em>Strategic control for a Boltzmann like decision-making model</em></em> <span><a href="https://arxiv.org/abs/2405.10915" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <em>Strategic control for a Boltzmann like decision-making model</em> <span><a href="https://arxiv.org/abs/2405.10915" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
 <small>(with l. Venegas-Pineda, M. Engel, J. Heitzig, M. Eser, and M. Cao)</small>
   </li> 
 
  <li>
-  <em>On the analysis of a higher-order Lotka-Volterra model: an application of S-tensors and the polynomial complementarity problem</em></em> <span><a href="https://arxiv.org/abs/2405.18333" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <em>On the analysis of a higher-order Lotka-Volterra model: an application of S-tensors and the polynomial complementarity problem</em> <span><a href="https://arxiv.org/abs/2405.18333" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
 <small>(with S. Cui, Q, Zhao, G. Zhang, and M. Cao)</small>
   </li> 
 
