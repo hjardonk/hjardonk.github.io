@@ -76,7 +76,7 @@ IEEE L-CSS, 2024
   </small>
   </li>  
 
-    <li>
+<li>
   <a href="https://www.sciencedirect.com/science/article/pii/S0005109823004673" target="_blank" rel="noopener noreferrer"><em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources</em></a> 
      <span><a href="https://arxiv.org/abs/2206.07425" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a></span> <br>
   <small>(with S. Cui, F. Liu, and M. Cao) </small><br>
