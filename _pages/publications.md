@@ -240,7 +240,7 @@ PLoS Comput Biol. 2023
   <li>
   <em>A topological perspective on singular canards for critical sets with transverse intersections
   </em> <span><a href="https://arxiv.org/abs/2304.10822" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
-  <small>(with <b>R. Bonetto</b> </small>
+  <small>(with <b>R. Bonetto</b>) </small>
   </li>  
   
   <li>
