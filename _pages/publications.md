@@ -83,7 +83,7 @@ IEEE L-CSS, 2024
   </li> 
 
 <li>
-  <em>Persistent synchronization of heterogeneous networks with time-dependent linear diffusive coupling</em>
+  <a href="https://epubs.siam.org/doi/full/10.1137/23M1602024" target="_blank" rel="noopener noreferrer"><em>Persistent synchronization of heterogeneous networks with time-dependent linear diffusive coupling</em></a>
     <span><a href="http://arxiv.org/abs/2305.05747" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
   <small>(with C. Kuehn and I. Longo) <br>
   SIAM Journal of Applied Dynamical Systems
