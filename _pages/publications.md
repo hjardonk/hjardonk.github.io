@@ -76,7 +76,7 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
 <ol reversed="">
 
  <li>
-  <em>On discrete-time polynomial dynamical systems on hypergraphs</em> <span><a href="https://arxiv.org/abs/2403.03416" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <a  href="https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/10540364" target="_blank" rel="noopener noreferrer"><em>On discrete-time polynomial dynamical systems on hypergraphs</em></a> <span><a href="https://arxiv.org/abs/2403.03416" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
 <small>(with <b>S. Cui</b>, G. Zhang, and M. Cao) <br>
 IEEE L-CSS, 2024
 </small>
