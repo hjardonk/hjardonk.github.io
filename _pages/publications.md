@@ -28,6 +28,7 @@ classes: wide
   margin-left: -100px;
   opacity: 0;
   transition: opacity 0.3s;
+  border: 1px solid #000; /* Added border for debugging */
 }
 
 .abstract:hover .abstract-text {
