@@ -16,8 +16,8 @@ classes: wide
 .abstract .abstract-text {
   visibility: hidden;
   width: 200px;
-  background-color: #f9f9f9;
-  color: #000;
+  background-color: yellow; /* Change background color for better visibility */
+  color: red; /* Change text color for better visibility */
   text-align: left;
   border-radius: 5px;
   padding: 10px;
@@ -28,7 +28,7 @@ classes: wide
   margin-left: -100px;
   opacity: 0;
   transition: opacity 0.3s;
-  border: 1px solid #000; /* Added border for debugging */
+  border: 1px solid black; /* Added border for debugging */
 }
 
 .abstract:hover .abstract-text {
@@ -68,7 +68,10 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
 
  <li>
   <em>On the analysis of a higher-order Lotka-Volterra model: an application of S-tensors and the polynomial complementarity problem</em> <span><a href="https://arxiv.org/abs/2405.18333" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-<small>(with <b>S. Cui</b>, Q, Zhao, G. Zhang, and M. Cao)</small>
+<small>(with <b>S. Cui</b>, Q, Zhao, G. Zhang, and M. Cao)</small><br>
+   <span class="abstract">Abstract
+      <span class="abstract-text">this should be an abstract </span>
+    </span>
   </li> 
 
   <li>
