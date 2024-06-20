@@ -8,7 +8,7 @@ classes: wide
 
 Titles link to the published version while, when possible, <i class="ai ai-arxiv"></i> links to the arXiv version.<br>
 
-**name** indicates the main author, usually a PhD student, under my (co-)supervision
+**name** indicates a PhD student under my (co-)supervision
 
 #### Pre-prints:
 
