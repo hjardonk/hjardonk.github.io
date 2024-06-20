@@ -6,6 +6,36 @@ title: Publications
 classes: wide
 ---
 
+<style>
+.abstract {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.abstract .abstract-text {
+  visibility: hidden;
+  width: 200px;
+  background-color: #f9f9f9;
+  color: #000;
+  text-align: left;
+  border-radius: 5px;
+  padding: 10px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%; /* Position the tooltip above the text */
+  left: 50%;
+  margin-left: -100px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.abstract:hover .abstract-text {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
+
 Titles link to the published version while, when possible, <i class="ai ai-arxiv"></i> links to the arXiv version.<br>
 
 **name** indicates a PhD student under my (co-)supervision
@@ -29,7 +59,10 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
 <-->
 <li>
   <em>Strategic control for a Boltzmann like decision-making model</em> <span><a href="https://arxiv.org/abs/2405.10915" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-<small>(with <b>L. Venegas-Pineda</b>, M. Engel, J. Heitzig, M. Eser, and M. Cao)</small>
+<small>(with <b>L. Venegas-Pineda</b>, M. Engel, J. Heitzig, M. Eser, and M. Cao)</small><br>
+  <span class="abstract">Abstract
+      <span class="abstract-text">{{ this should be an abstract }}</span>
+    </span>
   </li> 
 
  <li>
