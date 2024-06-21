@@ -21,7 +21,6 @@ classes: wide
   color: black; /* Change text color for better visibility */
   text-align: left;
   font-size: 12px;
-  border-radius: 5px;
   padding: 5px;
   position: absolute;
   z-index: 1;
