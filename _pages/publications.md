@@ -71,11 +71,12 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
  <li>
   <em>On the analysis of a higher-order Lotka-Volterra model: an application of S-tensors and the polynomial complementarity problem</em> <span><a href="https://arxiv.org/abs/2405.18333" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
 <small>(with <b>S. Cui</b>, Q, Zhao, G. Zhang, and M. Cao)</small><br>
-    <!--
+    
    <span class="abstract">Abstract
-      <span class="abstract-text">It is known that the effect of species' density on species' growth is non-additive in real ecological systems. This challenges the conventional Lotka-Volterra model, where the interactions are always pairwise and their effects are additive. To address this challenge, we introduce HOIs (Higher-Order Interactions) which are able to capture, for example, the indirect effect of one species on a second one correlating to a third species. Towards this end, we propose a general higher-order Lotka-Volterra model. We provide an existence result of a positive equilibrium for a non-homogeneous polynomial equation system with the help of S-tensors. Afterward, by utilizing the latter result, as well as the theory of monotone systems and results from the polynomial complementarity problem, we provide comprehensive results regarding the existence, uniqueness, and stability of the corresponding equilibrium. These results can be regarded as natural extensions of many analogous ones for the classical Lotka-Volterra model, especially in the case of full cooperation, competition among two factions, and pure competition. Finally, illustrative numerical examples are provided to highlight our contributions.</span>
-    </span>
-   -->
+      <span class="abstract-text">It is known that the effect of species' density on species' growth is non-additive in real ecological systems. This challenges the conventional Lotka-Volterra model, where the interactions are always pairwise and their effects are additive. To address this challenge, we introduce HOIs (Higher-Order Interactions) which are able to capture, for example, the indirect effect of one species on a second one correlating to a third species. Towards this end, we propose a general higher-order Lotka-Volterra model. We provide an existence result of a positive equilibrium for a non-homogeneous polynomial equation system with the help of S-tensors. Afterward, by utilizing the latter result, as well as the theory of monotone systems and results from the polynomial complementarity problem, we provide comprehensive results regarding the existence, uniqueness, and stability of the corresponding equilibrium. These results can be regarded as natural extensions of many analogous ones for the classical Lotka-Volterra model, especially in the case of full cooperation, competition among two factions, and pure competition. Finally, illustrative numerical examples are provided to highlight our contributions.
+      </span>
+  </span>
+  
   </li> 
 
   <li>
