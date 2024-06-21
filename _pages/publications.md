@@ -19,14 +19,14 @@ classes: wide
   background-color: #F2EBEA; /* Change background color for better visibility */
   color: black; /* Change text color for better visibility */
   text-align: left;
-  font-size: 5px;
+  font-size: 10px;
   border-radius: 5px;
-  padding: 10px;
+  padding: 5px;
   position: absolute;
   z-index: 1;
-  bottom: 125%; /* Position the tooltip above the text */
-  left: 50%;
-  margin-left: 10px;
+  bottom: 0%; /* Position the tooltip above the text */
+  left: 0%;
+  margin-left: 5px;
   opacity: 0;
   transition: opacity 0.3s;
   border: .1px solid black; /* Added border for debugging */
