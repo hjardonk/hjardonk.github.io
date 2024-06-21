@@ -16,7 +16,7 @@ classes: wide
 .abstract .abstract-text {
   visibility: hidden;
   max-width: 800px; /* Set a maximum width */
-  width: 700px;
+  width: 100%;
   background-color: #F2EBEA; /* Change background color for better visibility */
   color: black; /* Change text color for better visibility */
   text-align: left;
@@ -28,10 +28,9 @@ classes: wide
   bottom: 60%; /* Position the tooltip above the text */
   left: 50%;
   margin-left: 5px;
-  transform: translateX(-50%);
+  transform: translateX(-10%);
   opacity: 0;
   transition: opacity 0.3s;
-  border: .1px solid black; /* Added border for debugging */
 }
 
 .abstract:hover .abstract-text {
