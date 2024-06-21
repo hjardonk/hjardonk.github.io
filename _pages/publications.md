@@ -16,7 +16,7 @@ classes: wide
 .abstract .abstract-text {
   visibility: hidden;
   max-width: 800px; /* Set a maximum width */
-  width: 100%;
+  width: 1000%;
   background-color: #F2EBEA; /* Change background color for better visibility */
   color: black; /* Change text color for better visibility */
   text-align: left;
