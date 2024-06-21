@@ -15,9 +15,9 @@ classes: wide
 
 .abstract .abstract-text {
   visibility: hidden;
-  width: 200px;
-  background-color: yellow; /* Change background color for better visibility */
-  color: red; /* Change text color for better visibility */
+  width: 400px;
+  background-color: #F2EBEA; /* Change background color for better visibility */
+  color: black; /* Change text color for better visibility */
   text-align: left;
   border-radius: 5px;
   padding: 10px;
@@ -25,10 +25,10 @@ classes: wide
   z-index: 1;
   bottom: 125%; /* Position the tooltip above the text */
   left: 50%;
-  margin-left: -100px;
+  margin-left: 10px;
   opacity: 0;
   transition: opacity 0.3s;
-  border: 1px solid black; /* Added border for debugging */
+  border: .1px solid black; /* Added border for debugging */
 }
 
 .abstract:hover .abstract-text {
@@ -62,7 +62,7 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
   <em>Strategic control for a Boltzmann like decision-making model</em> <span><a href="https://arxiv.org/abs/2405.10915" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
 <small>(with <b>L. Venegas-Pineda</b>, M. Engel, J. Heitzig, M. Eser, and M. Cao)</small><br>
   <span class="abstract">Abstract
-      <span class="abstract-text">{{ this should be an abstract }}</span>
+      <span class="abstract-text">We study a prototypical non-polynomial decision-making model for which agents in a population potentially alternate between two consumption strategies, one related to the exploitation of an unlimited but considerably expensive resource and the other a comparably cheaper but restricted and slowly renewable source. In particular, we study a model following a Boltzmann-like exploration policy, enhancing the accuracy at which the exchange rates are captured with respect to classical polynomial approaches by considering sigmoidal functions to represent the cost-profit relation in both exploit strategies. Additionally, given the intrinsic timescale separation between the decision-making process and recovery rates of the renewable resource, we use geometric singular perturbation theory to analyze the model. We further use numerical analysis to determine parameter ranges for which the model undergoes bifurcations. These bifurcations, being related to critical states of the system, are relevant to the fast transitions between strategies. Hence, we design controllers to regulate such rapid transitions by taking advantage of the system's criticality.</span>
     </span>
   </li> 
 
@@ -70,7 +70,7 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
   <em>On the analysis of a higher-order Lotka-Volterra model: an application of S-tensors and the polynomial complementarity problem</em> <span><a href="https://arxiv.org/abs/2405.18333" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
 <small>(with <b>S. Cui</b>, Q, Zhao, G. Zhang, and M. Cao)</small><br>
    <span class="abstract">Abstract
-      <span class="abstract-text">this should be an abstract </span>
+      <span class="abstract-text">It is known that the effect of species' density on species' growth is non-additive in real ecological systems. This challenges the conventional Lotka-Volterra model, where the interactions are always pairwise and their effects are additive. To address this challenge, we introduce HOIs (Higher-Order Interactions) which are able to capture, for example, the indirect effect of one species on a second one correlating to a third species. Towards this end, we propose a general higher-order Lotka-Volterra model. We provide an existence result of a positive equilibrium for a non-homogeneous polynomial equation system with the help of S-tensors. Afterward, by utilizing the latter result, as well as the theory of monotone systems and results from the polynomial complementarity problem, we provide comprehensive results regarding the existence, uniqueness, and stability of the corresponding equilibrium. These results can be regarded as natural extensions of many analogous ones for the classical Lotka-Volterra model, especially in the case of full cooperation, competition among two factions, and pure competition. Finally, illustrative numerical examples are provided to highlight our contributions.</span>
     </span>
   </li> 
 
