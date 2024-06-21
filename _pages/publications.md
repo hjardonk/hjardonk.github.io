@@ -15,7 +15,8 @@ classes: wide
 
 .abstract .abstract-text {
   visibility: hidden;
-  width: 700px;
+  width: 70%;
+  max-width: 700px; /* Set a maximum width */
   background-color: #F2EBEA; /* Change background color for better visibility */
   color: black; /* Change text color for better visibility */
   text-align: left;
@@ -27,6 +28,7 @@ classes: wide
   bottom: 50%; /* Position the tooltip above the text */
   left: 50%;
   margin-left: 5px;
+  transform: translateX(-50%);
   opacity: 0;
   transition: opacity 0.3s;
   border: .1px solid black; /* Added border for debugging */
