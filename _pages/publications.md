@@ -15,10 +15,11 @@ classes: wide
 
 .abstract .abstract-text {
   visibility: hidden;
-  width: 400px;
+  width: 600px;
   background-color: #F2EBEA; /* Change background color for better visibility */
   color: black; /* Change text color for better visibility */
   text-align: left;
+  font-size: 5px;
   border-radius: 5px;
   padding: 10px;
   position: absolute;
