@@ -15,17 +15,17 @@ classes: wide
 
 .abstract .abstract-text {
   visibility: hidden;
-  width: 600px;
+  width: 700px;
   background-color: #F2EBEA; /* Change background color for better visibility */
   color: black; /* Change text color for better visibility */
   text-align: left;
-  font-size: 10px;
+  font-size: 12px;
   border-radius: 5px;
   padding: 5px;
   position: absolute;
   z-index: 1;
-  bottom: 0%; /* Position the tooltip above the text */
-  left: 0%;
+  bottom: 50%; /* Position the tooltip above the text */
+  left: 50%;
   margin-left: 5px;
   opacity: 0;
   transition: opacity 0.3s;
