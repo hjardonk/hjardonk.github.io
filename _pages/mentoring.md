@@ -9,7 +9,6 @@ classes: wide
 ## PhD
 
 <p>
-<a onclick="ga('send', 'event', 'Downloads', 'Click', 'phd advertisement');" href="https://hildejk.xyz/uploads/phd_advertisement%202024.pdf"><font size="5">*Two PhD positions available </font></a><br />
  <font size="3">*Mexican candidates may be interested in: <a href="https://www.rug.nl/about-ug/profile/internationalization/global-focus/latin-america/conacyt-full-phd-scholarships?lang=en">this</a> and <a href="https://www.rug.nl/about-ug/profile/internationalization/global-focus/latin-america/unam-ug-double-degree-phd-program?lang=en">this</a>.</font>
 </p>
 
@@ -21,8 +20,8 @@ classes: wide
 
 ## Master and Bachelor
 
-I am happy to supervise Bachelor and Master projects. 
-Please take a look at my research and contact me if any of it is of your interest.
+I am happy to supervise Bachelor's and Master's projects related to the general topic of dynamical systems and their applications. 
+If you are interested in my collection of potential topics, please take a look at my research and contact me if any of it interests you.
 
 <details>
   <summary markdown="span">Click here to see the brief description of some currently available projects (2022).</summary>
