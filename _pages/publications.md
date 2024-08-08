@@ -101,10 +101,7 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
   <small>(with <b>R. Bonetto</b>) </small>
   </li>  
 
-  <li>
-  <em>The hyperbolic umbilic singularity in fast-slow systems</em> <span><a href="https://arxiv.org/pdf/2202.01662" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
-  <small>(with C. Kuehn and <b>M. Steinert</b>) </small>
-  </li>
+ 
 
 </ol>
 
@@ -112,6 +109,12 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
 #### Journals:
 
 <ol reversed="">
+
+ <li>
+  <em>The hyperbolic umbilic singularity in fast-slow systems</em> <span><a href="https://arxiv.org/pdf/2202.01662" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
+  <small>(with C. Kuehn and <b>M. Steinert</b>) </small><br>
+   Accepted in Nonlinearity
+  </li>
 
  <li>
   <a  href="https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/10540364" target="_blank" rel="noopener noreferrer"><em>On discrete-time polynomial dynamical systems on hypergraphs</em></a> <span><a href="https://arxiv.org/pdf/2403.03416" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
