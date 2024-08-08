@@ -38,9 +38,9 @@ classes: wide
 }
 </style>
 
-Titles link to the published version while, when possible, <i class="ai ai-arxiv"></i> links to the arXiv version.<br>
+Titles link to the published version and <i class="ai ai-arxiv"></i> links to the arXiv version.<br>
 
-**name** indicates a PhD student under my (co-)supervision
+**name** indicates a (co-)supervised PhD student
 
 #### Pre-prints:
 
@@ -49,13 +49,13 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
 
 <li>
   <em>On the Eigenvalues of Graphs with Mixed Algebraic Structure</em> <span><a href="https://arxiv.org/pdf/2408.00487" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-  <small>(with **R. Bonetto**) </small>
+  <small>(with <b>R. Bonetto</b>) </small>
   </li>
 
 
 <li>
   <em>Networks of Pendula with Diffusive Interactions</em> <span><a href="https://arxiv.org/pdf/2408.02352" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-  <small>(with **R. Bonetto** and C. Kuehn) </small>
+  <small>(with <b>R. Bonetto</b> and C. Kuehn) </small>
   </li>
 
 <li>
@@ -112,8 +112,9 @@ Titles link to the published version while, when possible, <i class="ai ai-arxiv
 
  <li>
   <em>The hyperbolic umbilic singularity in fast-slow systems</em> <span><a href="https://arxiv.org/pdf/2202.01662" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
-  <small>(with C. Kuehn and <b>M. Steinert</b>) </small><br>
+  <small>(with C. Kuehn and <b>M. Steinert</b>) <br>
    Accepted in Nonlinearity
+    </small>
   </li>
 
  <li>
