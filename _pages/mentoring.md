@@ -43,12 +43,13 @@ If you are interested in my collection of potential topics, please take a look a
 
 
 ### Current:
-* Milou Aukes
-* Ramsay Duff
+
 * Naomi Wijnia
 
 
 ### Former:
+* Milou Aukes
+* Ramsay Duff
 * Naomi Wijnia, "Old Institutions with Old Habits. Research into Teaching University Mathematics, Including Lecture Notes on Holomorphic Differential Equations based on the Findings of 21st Century Researchers on Education", RUG, 2023.
 * Timo Hilverts, "The Kuramoto model on homogeneous ring networks for conformists and contrarians", RUG, 2022.
 * Milou Aukes. "The Kuramoto model on ring networks of homogeneous phase-oscillators", RUG, 2022
