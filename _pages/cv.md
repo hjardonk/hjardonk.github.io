@@ -21,6 +21,7 @@ classes: wide
 
 #### Grants:
 
+2024 | | CogniGron Crossdisciplinary grant (funded by Ubbo Emmius-University of Groningen)
 2018 | | Alexander von Humboldt fellowship
 2018 | | Marie-Curie Eurotech (declined)
 2017 | | Technical University Foundation Fellowship (TUFF-TUM)
