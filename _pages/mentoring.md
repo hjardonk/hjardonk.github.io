@@ -13,6 +13,7 @@ classes: wide
 </p>
 
 ### Current:
+* Henrieke Krijgsheld (RUG, 2024-)
 * Riccardo Bonetto (RUG, 2021-)
 * Shaoxuan Cui (RUG, 2022-)
 * Luis Venegas (RUG, 2020-)
@@ -48,8 +49,8 @@ If you are interested in my collection of potential topics, please take a look a
 
 
 ### Former:
-* Milou Aukes
-* Ramsay Duff
+* Milou Aukes, "On bifurcations of coupled pendula", RUG, 2024.
+* Ramsay Duff, "Bifurcations in the two-node and three-node cases of the Nonlocal Hopping Model", RUG, 2024.
 * Naomi Wijnia, "Old Institutions with Old Habits. Research into Teaching University Mathematics, Including Lecture Notes on Holomorphic Differential Equations based on the Findings of 21st Century Researchers on Education", RUG, 2023.
 * Timo Hilverts, "The Kuramoto model on homogeneous ring networks for conformists and contrarians", RUG, 2022.
 * Milou Aukes. "The Kuramoto model on ring networks of homogeneous phase-oscillators", RUG, 2022
