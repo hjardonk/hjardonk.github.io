@@ -13,9 +13,10 @@ classes: wide
 </p>
 
 ### Current:
-* Henrieke Krijgsheld (RUG, 2024-)
+
 * Riccardo Bonetto (RUG, 2021-)
 * Shaoxuan Cui (RUG, 2022-)
+* Henrieke Krijgsheld (RUG, 2024-)
 * Luis Venegas (RUG, 2020-)
 
 
