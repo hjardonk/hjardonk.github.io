@@ -111,7 +111,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 <ol reversed="">
 
  <li>
-  <em>The hyperbolic umbilic singularity in fast-slow systems</em> <span><a href="https://arxiv.org/pdf/2202.01662" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
+ <a  href="https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde" target="_blank" rel="noopener noreferrer"> <em>The hyperbolic umbilic singularity in fast-slow systems</em></a> <span><a href="https://arxiv.org/pdf/2202.01662" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
   <small>(with C. Kuehn and <b>M. Steinert</b>) <br>
    Accepted in Nonlinearity
     </small>
