@@ -76,11 +76,6 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
   </li> 
 
   <li>
-  <em>Ergodicity in planar slow-fast systems through slow relation functions </em> <span><a href="https://arxiv.org/pdf/2402.16511" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-  <small>(with R. Huzak and C. Kuehn) </small>
-  </li> 
-
-  <li>
   <em>On Metzler positive systems on hypergraphs </em> <span><a href="https://arxiv.org/pdf/2401.03652" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
   <small>(with <b>S. Cui</b>, G. Zhang, and M. Cao) </small>
   </li> 
@@ -109,6 +104,13 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 #### Journals:
 
 <ol reversed="">
+
+ <li>
+  <em>Ergodicity in planar slow-fast systems through slow relation functions </em> <span><a href="https://arxiv.org/pdf/2402.16511" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <small>(with R. Huzak and C. Kuehn)<br>
+Accepted in SIAM Journal of Applied Dynamical Systems
+     </small>
+  </li> 
 
  <li>
  <a  href="https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde" target="_blank" rel="noopener noreferrer"> <em>The hyperbolic umbilic singularity in fast-slow systems</em></a> <span><a href="https://arxiv.org/pdf/2202.01662" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
