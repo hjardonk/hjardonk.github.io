@@ -299,10 +299,19 @@ PLoS Comput Biol. 2023
 <li><a rel="noopener noreferrer" href="https://www.rug.nl/research/portal/files/35515263/0036.pdf" target="_blank"><em>Stabilization of a planar slow-fast system at a non-hyperbolic point</em></a><br>
 <small>(with J. M. A. Scherpen)</small><br><small>Mathematical Theory of Networks and Systems 2016.</small></li>
   
-<li><a href="https://www.sciencedirect.com/science/article/pii/S2405896316318493"><em>Model order reduction of a flexible-joint robot: a port-Hamiltonian approach</em></a><strong><br></strong>
+<li><a rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/pii/S2405896316318493"><em>Model order reduction of a flexible-joint robot: a port-Hamiltonian approach</em></a><strong><br></strong>
 <small>(with M. Munoz-Arias and J. M. A. Scherpen)</small><br><small>IFAC Symposium on Nonlinear Control Systems 2016.</small></li>
   
-<li><em><a href="https://www.researchgate.net/publication/259693995_Estabilizacion_de_redes_complejas_fraccionarias_de_sistemas_de_Lorenz_modificados_y_sistemas_de_Chen?channel=doi&linkId=0f31752d5c1ba09be7000000&showFulltext=true" target="_blank" rel="noreferrer noopener">Estabilización de Redes Complejas Fraccionarias de Sistemas de Lorenz y Sistemas de Chen</a></em><strong><br></strong>
+<li><em><a rel="noopener noreferrer" href="https://www.researchgate.net/publication/259693995_Estabilizacion_de_redes_complejas_fraccionarias_de_sistemas_de_Lorenz_modificados_y_sistemas_de_Chen?channel=doi&linkId=0f31752d5c1ba09be7000000&showFulltext=true" target="_blank" rel="noreferrer noopener">Estabilización de Redes Complejas Fraccionarias de Sistemas de Lorenz y Sistemas de Chen</a></em><strong><br></strong>
 <small>(with R. Martínez-Martínez, J. A. León and G. Fernández-Anaya)</small><br><small>Congreso de la Asociación de México de Control Automático, 2009.</small></li></ol>
 
+#### Editorial work:
 
+<ol>
+<li> <a rel="noopener noreferrer" href="https://www.ams.org/books/conm/806/"><em> Topics in Multiple Time Scale Dynamics</em></a><br>
+  <small> Maximilian Engel, Hildeberto Jardón-Kojakhmetov, and Cinzia Soresina, Editors <br>
+  Contemporary Mathematics<br>
+Volume: 806; 2024; 209 pp
+  </small>
+</li>
+</ol>
