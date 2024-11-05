@@ -48,6 +48,11 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 
 
 <li>
+  <em>Coevolutionary Control of a Neuromorphic Network through a Mixed-Feedback Architecture</em> <span><a href="https://arxiv.org/pdf/2410.19857" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <small>(with <b>L. Venegas</b> and M. Cao)</small>
+  </li>
+
+<li>
   <em>On the Eigenvalues of Graphs with Mixed Algebraic Structure</em> <span><a href="https://arxiv.org/pdf/2408.00487" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
   <small>(with <b>R. Bonetto</b>) </small>
   </li>
