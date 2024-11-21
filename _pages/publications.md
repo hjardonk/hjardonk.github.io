@@ -66,11 +66,6 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 <li>
   <em>Strategic control for a Boltzmann like decision-making model</em> <span><a href="https://arxiv.org/pdf/2405.10915" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
 <small>(with <b>L. Venegas-Pineda</b>, M. Engel, J. Heitzig, M. Eser, and M. Cao)</small><br>
-  <!--
-  <span class="abstract">Abstract
-      <span class="abstract-text">We study a prototypical non-polynomial decision-making model for which agents in a population potentially alternate between two consumption strategies, one related to the exploitation of an unlimited but considerably expensive resource and the other a comparably cheaper but restricted and slowly renewable source. In particular, we study a model following a Boltzmann-like exploration policy, enhancing the accuracy at which the exchange rates are captured with respect to classical polynomial approaches by considering sigmoidal functions to represent the cost-profit relation in both exploit strategies. Additionally, given the intrinsic timescale separation between the decision-making process and recovery rates of the renewable resource, we use geometric singular perturbation theory to analyze the model. We further use numerical analysis to determine parameter ranges for which the model undergoes bifurcations. These bifurcations, being related to critical states of the system, are relevant to the fast transitions between strategies. Hence, we design controllers to regulate such rapid transitions by taking advantage of the system's criticality.</span>
-    </span>
-  -->
   </li> 
 
  <li>
