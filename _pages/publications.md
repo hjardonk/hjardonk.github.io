@@ -95,11 +95,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
   <small>(with <b>S. Cui</b>, F. Liu, and M. Cao) </small>
   </li> 
 
-  <li>
-  <em>Nonlinear Laplacian Dynamics: Symmetries, Perturbations, and Consensus
-  </em> <span><a href="https://arxiv.org/pdf/2206.04442" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
-  <small>(with <b>R. Bonetto</b>) </small>
-  </li>  
+
 
  
 
@@ -109,6 +105,14 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 #### Journals:
 
 <ol reversed="">
+
+  <li>
+  <em>Nonlinear Diffusion on Networks: Perturbations and Consensus Dynamics
+  </em> <span><a href="https://arxiv.org/pdf/2206.04442" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
+  <small>(with <b>R. Bonetto</b>)<br> 
+  Accepted in Networks and Heterogeneous Media
+  </small>
+  </li>  
 
  <li>
   <em>Ergodicity in planar slow-fast systems through slow relation functions </em> <span><a href="https://arxiv.org/pdf/2402.16511" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
