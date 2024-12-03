@@ -46,6 +46,11 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 
 <ol reversed="">
 
+<li>
+  <em>Singular bifurcations in a slow-fast modified Leslie-Gower model with Holling type II functional response, weak Allee effect and a generalist predator</em> <span><a href="https://arxiv.org/pdf/2411.18059" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <small>(with R. Albarrán-García and Martha Alvarez-Ramírez)</small>
+  </li>
+
 
 <li>
   <em>Coevolutionary Control of a Neuromorphic Network through a Mixed-Feedback Architecture</em> <span><a href="https://arxiv.org/pdf/2410.19857" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
