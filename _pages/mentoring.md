@@ -17,6 +17,7 @@ classes: wide
 * Riccardo Bonetto (RUG, 2021-)
 * Shaoxuan Cui (RUG, 2022-)
 * Henrieke Krijgsheld (RUG, 2024-)
+* Floor Schipper (RUG, 2024-)
 * Luis Venegas (RUG, 2020-)
 
 
@@ -47,6 +48,7 @@ If you are interested in my collection of potential topics, please take a look a
 ### Current:
 
 * Naomi Wijnia
+* Ivet Stanislavova
 
 
 ### Former:
