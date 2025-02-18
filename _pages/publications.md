@@ -48,7 +48,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 
 <li>
   <em>Higher-order Laplacian dynamics on hypergraphs with cooperative and antagonistic interactions</em> <span><a href="https://arxiv.org/pdf/2502.08276" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-  <small>(with S Cui, C Zhang, B Jiang, and M Cao)</small>
+  <small>(with <b>S. Cui</b>, C Zhang, B Jiang, and M Cao)</small>
   </li>
 
 <li>
@@ -85,10 +85,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 
   </li> 
 
-  <li>
-  <em>On Metzler positive systems on hypergraphs </em> <span><a href="https://arxiv.org/pdf/2401.03652" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-  <small>(with <b>S. Cui</b>, G. Zhang, and M. Cao) </small>
-  </li> 
+  
 
   <li>
   <em>On network dynamical systems with a nilpotent singularity</em> <span><a href="https://arxiv.org/pdf/2310.08947" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
@@ -111,18 +108,27 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 
 <ol reversed="">
 
+<li>
+  <em>On Metzler positive systems on hypergraphs </em> <span><a href="https://arxiv.org/pdf/2401.03652" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <small>(with <b>S. Cui</b>, G. Zhang, and M. Cao) <br>
+  Accepted in IEEE Transactions on Control of Network Systems
+  </small>
+  </li> 
+
   <li>
+    <a href="https://www.aimspress.com/article/doi/10.3934/nhm.2024058" target="_blank" rel="noopener noreferrer">
   <em>Nonlinear Diffusion on Networks: Perturbations and Consensus Dynamics
-  </em> <span><a href="https://arxiv.org/pdf/2206.04442" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
+  </em></a> <span><a href="https://arxiv.org/pdf/2206.04442" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
   <small>(with <b>R. Bonetto</b>)<br> 
-  Accepted in Networks and Heterogeneous Media
+  Networks and Heterogeneous Media
   </small>
   </li>  
 
  <li>
-  <em>Ergodicity in planar slow-fast systems through slow relation functions </em> <span><a href="https://arxiv.org/pdf/2402.16511" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+   <a href="https://epubs.siam.org/doi/10.1137/24M1651514" target="_blank" rel="noopener noreferrer">
+  <em>Ergodicity in planar slow-fast systems through slow relation functions </em></a> <span><a href="https://arxiv.org/pdf/2402.16511" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
   <small>(with R. Huzak and C. Kuehn)<br>
-Accepted in SIAM Journal of Applied Dynamical Systems
+SIAM Journal of Applied Dynamical Systems
      </small>
   </li> 
 
