@@ -47,22 +47,23 @@ If you are interested in my collection of potential topics, please take a look a
 
 ### Current:
 
-* Naomi Wijnia
-* Ivet Stanislavova
+* Naomi Wijnia (MSc)
+* Anirudh Ranganatha (BSc)
 
 
 ### Former:
-* Milou Aukes, "On bifurcations of coupled pendula", RUG, 2024.
-* Ramsay Duff, "Bifurcations in the two-node and three-node cases of the Nonlocal Hopping Model", RUG, 2024.
-* Naomi Wijnia, "Old Institutions with Old Habits. Research into Teaching University Mathematics, Including Lecture Notes on Holomorphic Differential Equations based on the Findings of 21st Century Researchers on Education", RUG, 2023.
-* Timo Hilverts, "The Kuramoto model on homogeneous ring networks for conformists and contrarians", RUG, 2022.
-* Milou Aukes. "The Kuramoto model on ring networks of homogeneous phase-oscillators", RUG, 2022
-* Kumar Harsha. "Bifurcations on and Symmetrization of Digraphs", TUM, 2019. 
-* Tomoyuki van Ouwendorp. "Passivity analysis of a bursting neuron", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/15298/)
-* Sharon Verhoeff. "Numerical methods for parametric resonance", RUG, 2017. [[link]](https://fse.studenttheses.ub.rug.nl/15299/)
-* Casper Stork. "Model and simulation of a cantilever under parametric resonance", RUG, 2017. [[link]](https://fse.studenttheses.ub.rug.nl/15346/)
-* Jorick Wold. "Finite Element Analysis of a piezoelectric cantilever under parametric resonance", RUG, 2017. [[link]](https://fse.studenttheses.ub.rug.nl/15678/)
-* Martijn Kamphuis. "A port-Hamiltonian approach to Gas Metal Arc Welding", RUG, 2017. 
-* Vincent Samallo. "Camera integration on a robotic system", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/13997/)
-* Thomas Wesselink. "Controlling a flexible-joint robot", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/13928/)
-* Renate Bijker. "Improvement of a wind farm operation strategy", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/13909/)
+* Ivet Stanislavova (BSc), "Analysis of an Adaptive Theta Neuron model", RUG, 2024
+* Milou Aukes (MSc), "On bifurcations of coupled pendula", RUG, 2024.
+* Ramsay Duff (MSc), "Bifurcations in the two-node and three-node cases of the Nonlocal Hopping Model", RUG, 2024.
+* Naomi Wijnia (BSc), "Old Institutions with Old Habits. Research into Teaching University Mathematics, Including Lecture Notes on Holomorphic Differential Equations based on the Findings of 21st Century Researchers on Education", RUG, 2023.
+* Timo Hilverts (BSc), "The Kuramoto model on homogeneous ring networks for conformists and contrarians", RUG, 2022.
+* Milou Aukes (BSc), "The Kuramoto model on ring networks of homogeneous phase-oscillators", RUG, 2022
+* Kumar Harsha (MSc), "Bifurcations on and Symmetrization of Digraphs", TUM, 2019. 
+* Tomoyuki van Ouwendorp (BSc), "Passivity analysis of a bursting neuron", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/15298/)
+* Sharon Verhoeff (BSc), "Numerical methods for parametric resonance", RUG, 2017. [[link]](https://fse.studenttheses.ub.rug.nl/15299/)
+* Casper Stork (BSc), "Model and simulation of a cantilever under parametric resonance", RUG, 2017. [[link]](https://fse.studenttheses.ub.rug.nl/15346/)
+* Jorick Wold (BSc), "Finite Element Analysis of a piezoelectric cantilever under parametric resonance", RUG, 2017. [[link]](https://fse.studenttheses.ub.rug.nl/15678/)
+* Martijn Kamphuis (BSc), "A port-Hamiltonian approach to Gas Metal Arc Welding", RUG, 2017. 
+* Vincent Samallo (BSc), "Camera integration on a robotic system", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/13997/)
+* Thomas Wesselink (BSc), "Controlling a flexible-joint robot", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/13928/)
+* Renate Bijker (BSc), "Improvement of a wind farm operation strategy", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/13909/)
