@@ -51,10 +51,6 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
   <small>(with <b>S. Cui</b>, C Zhang, B Jiang, and M Cao)</small>
   </li>
 
-<li>
-  <em>Singular bifurcations in a slow-fast modified Leslie-Gower model with Holling type II functional response, weak Allee effect and a generalist predator</em> <span><a href="https://arxiv.org/pdf/2411.18059" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-  <small>(with R. Albarrán-García and Martha Alvarez-Ramírez)</small>
-  </li>
 
 
 <li>
@@ -107,6 +103,14 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 #### Journals:
 
 <ol reversed="">
+
+<li>
+  <em>Singular bifurcations in a slow-fast modified Leslie-Gower model</em> <span><a href="https://arxiv.org/pdf/2411.18059" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <small>(with R. Albarrán-García and Martha Alvarez-Ramírez)<br>
+  Accepted in Results in Applied Mathematics
+  </small>
+  </li>
+
 
 <li>
   <em>On Metzler positive systems on hypergraphs </em> <span><a href="https://arxiv.org/pdf/2401.03652" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
