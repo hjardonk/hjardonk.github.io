@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publications
+permalink: /test/
 ---
 
 <h1>Publications</h1>
