@@ -53,10 +53,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 
 
 
-<li>
-  <em>Co-evolutionary control of a class of coupled mixed-feedback systems</em> <span><a href="https://arxiv.org/pdf/2410.19857" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-  <small>(with <b>L. Venegas</b> and M. Cao)</small>
-  </li>
+
 
 <li>
   <em>On the Eigenvalues of Graphs with Mixed Algebraic Structure</em> <span><a href="https://arxiv.org/pdf/2408.00487" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
@@ -105,6 +102,13 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 <ol reversed="">
 
 <li>
+  <em>Co-evolutionary control of a class of coupled mixed-feedback systems</em> <span><a href="https://arxiv.org/pdf/2410.19857" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <small>(with <b>L. Venegas</b> and M. Cao)<br>
+  Accepted in Chaos
+  </small>
+  </li>
+
+<li>
   <em>Singular bifurcations in a slow-fast modified Leslie-Gower model</em> <span><a href="https://arxiv.org/pdf/2411.18059" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
   <small>(with R. Albarrán-García and Martha Alvarez-Ramírez)<br>
   Accepted in Results in Applied Mathematics
@@ -113,10 +117,19 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 
 
 <li>
-  <em>On Metzler positive systems on hypergraphs </em> <span><a href="https://arxiv.org/pdf/2401.03652" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10910206" target="_blank" rel="noopener noreferrer">
+  <em>On Metzler positive systems on hypergraphs </em></a> <span><a href="https://arxiv.org/pdf/2401.03652" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
   <small>(with <b>S. Cui</b>, G. Zhang, and M. Cao) <br>
-  Accepted in IEEE Transactions on Control of Network Systems
+  IEEE Transactions on Control of Network Systems, 2025.
   </small>
+  </li> 
+
+  <li>
+   <a href="https://epubs.siam.org/doi/10.1137/24M1651514" target="_blank" rel="noopener noreferrer">
+  <em>Ergodicity in planar slow-fast systems through slow relation functions </em></a> <span><a href="https://arxiv.org/pdf/2402.16511" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <small>(with R. Huzak and C. Kuehn)<br>
+SIAM Journal of Applied Dynamical Systems, 2025
+     </small>
   </li> 
 
   <li>
@@ -124,17 +137,9 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
   <em>Nonlinear Diffusion on Networks: Perturbations and Consensus Dynamics
   </em></a> <span><a href="https://arxiv.org/pdf/2206.04442" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
   <small>(with <b>R. Bonetto</b>)<br> 
-  Networks and Heterogeneous Media
+  Networks and Heterogeneous Media, 2024
   </small>
   </li>  
-
- <li>
-   <a href="https://epubs.siam.org/doi/10.1137/24M1651514" target="_blank" rel="noopener noreferrer">
-  <em>Ergodicity in planar slow-fast systems through slow relation functions </em></a> <span><a href="https://arxiv.org/pdf/2402.16511" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-  <small>(with R. Huzak and C. Kuehn)<br>
-SIAM Journal of Applied Dynamical Systems
-     </small>
-  </li> 
 
  <li>
  <a  href="https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde" target="_blank" rel="noopener noreferrer"> <em>The hyperbolic umbilic singularity in fast-slow systems</em></a> <span><a href="https://arxiv.org/pdf/2202.01662" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
