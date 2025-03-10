@@ -85,11 +85,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
   <small>(with C. Kuehn) </small>
   </li>
   
-  <li>
-  <em>General SIS diffusion process with direct and indirect spreading on a hypergraph </em> <span><a href="https://arxiv.org/pdf/2306.00619" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
-  <small>(with <b>S. Cui</b>, F. Liu, and M. Cao) </small>
-  </li> 
-
+  
 
 
  
@@ -100,6 +96,14 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 #### Journals:
 
 <ol reversed="">
+
+<li>
+  <em>General SIS diffusion process with direct and indirect spreading on a hypergraph </em> <span><a href="https://arxiv.org/pdf/2306.00619" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
+  <small>(with <b>S. Cui</b>, F. Liu, L. Liang and M. Cao)<br>
+  Accepted in Automatica
+  </small>
+  </li> 
+
 
 <li>
   <em>Co-evolutionary control of a class of coupled mixed-feedback systems</em> <span><a href="https://arxiv.org/pdf/2410.19857" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
