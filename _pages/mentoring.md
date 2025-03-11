@@ -27,9 +27,6 @@ If you are interested in my research, feel free to contact me!
 
 <h1 style="text-align: center;">Former</h1>
 
-## PhD
-
-## Master and Bachelor
 
 * **Ivet Stanislavova** (BSc), "Analysis of an Adaptive Theta Neuron model", RUG, 2024
 * **Milou Aukes** (MSc), "On bifurcations of coupled pendula", RUG, 2024.
