@@ -21,8 +21,8 @@ classes: wide
 * **Naomi Wijnia** (MSc)
 * **Anirudh Ranganatha** (BSc)
 
-*I am happy to supervise Bachelor's and Master's projects related to the general topic of dynamical systems and their applications. 
-If you are interested in my collection of potential topics, please take a look at my research and contact me if any of it interests you.
+*I am happy to supervise Bachelor's and Master's projects related to the general topic of dynamical systems. 
+If you are interested in my research, feel free to contact me!
 
 # Former
 
