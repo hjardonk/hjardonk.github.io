@@ -4,28 +4,13 @@ layout: single
 author_profile: true
 title: Teaching
 ---
-#### 2023/2024
-* Hamiltonian Mechanics
-* Multivariable Analysis
 
-#### 2022/2023
-* Perturbation Theory <a onclick="ga('send', 'event', 'Downloads', 'Click', 'Lecture Notes Downloaded downloaded');" href="https://hildejk.xyz/uploads/Notes_on_Perturbation_Theory_v0_1.pdf">(Lecture notes v1)</a>
-* Multivariable Analysis
+In the recent years I've taught the following courses at the University of Groningen:
 
-#### 2021/2022
-* Calculus 1
-* Caput Dynamical Systems & Chaos
-* Project Chaos Theory
+* Multivariable Analysis (2022/2023, 2023/2024 & 2024/2025)
+* Perturbation Theory (2022/2023 & 2024/2025)
+* Hamiltonian Mechanics (2023/2024)
+* Calculus 1 (2020/2021 & 2021/2022)
+* Caput Dynamical Systems & Chaos (2020/2021 & 2021/2022)
+* Project Chaos Theory (2020/2021 & 2021/2022)
 
-#### 2020/2021
-* Calculus 1
-* Caput Dynamical Systems & Chaos
-* Project Chaos Theory
-
-#### 2015-2018
-* Mechatronics
-
-#### 2008-2011
-* Robotics 1
-* Robotics 2
-* Control of Electric Machines
