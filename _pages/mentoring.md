@@ -17,6 +17,8 @@ classes: wide
 * **Floor Schipper** (RUG, 2024-)
 * **Luis Venegas** (RUG, 2020-)
 
+*When available, open PhD positions are advertised here.
+
 ## Master and Bachelor
 
 * **Naomi Wijnia** (MSc)
