@@ -6,7 +6,8 @@ title: Supervision & Mentoring
 classes: wide
 ---
 
-# Current
+<h1 style="text-align: center;">Current</h1>
+
 
 ## PhD
 
@@ -24,7 +25,7 @@ classes: wide
 *I am happy to supervise Bachelor's and Master's projects related to the general topic of dynamical systems. 
 If you are interested in my research, feel free to contact me!
 
-# Former
+<h1 style="text-align: center;">Former</h1>
 
 ## PhD
 
