@@ -51,10 +51,6 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
   <small>(with <b>S. Cui</b>, C Zhang, B Jiang, and M Cao)</small>
   </li>
 
-
-
-
-
 <li>
   <em>On the Eigenvalues of Graphs with Mixed Algebraic Structure</em> <span><a href="https://arxiv.org/pdf/2408.00487" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
   <small>(with <b>R. Bonetto</b>) </small>
@@ -79,7 +75,6 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
   </li> 
 
   
-
   <li>
   <em>On network dynamical systems with a nilpotent singularity</em> <span><a href="https://arxiv.org/pdf/2310.08947" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
   <small>(with C. Kuehn) </small>
@@ -100,7 +95,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 <li>
   <em>General SIS diffusion process with direct and indirect spreading on a hypergraph </em> <span><a href="https://arxiv.org/pdf/2306.00619" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
   <small>(with <b>S. Cui</b>, F. Liu, L. Liang and M. Cao)<br>
-  Accepted in Automatica
+  Accepted in Automatica, 2025
   </small>
   </li> 
 
@@ -108,14 +103,15 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 <li>
   <em>Co-evolutionary control of a class of coupled mixed-feedback systems</em> <span><a href="https://arxiv.org/pdf/2410.19857" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
   <small>(with <b>L. Venegas</b> and M. Cao)<br>
-  Accepted in Chaos
+  Accepted in Chaos, 2025
   </small>
   </li>
 
 <li>
-  <em>Singular bifurcations in a slow-fast modified Leslie-Gower model</em> <span><a href="https://arxiv.org/pdf/2411.18059" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <a href="https://www.sciencedirect.com/science/article/pii/S2590037425000226" target="_blank" rel="noopener noreferrer">
+  <em>Singular bifurcations in a slow-fast modified Leslie-Gower model</em></a> <span><a href="https://arxiv.org/pdf/2411.18059" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
   <small>(with R. Albarrán-García and Martha Alvarez-Ramírez)<br>
-  Accepted in Results in Applied Mathematics
+  Accepted in Results in Applied Mathematics, 2025
   </small>
   </li>
 
@@ -124,7 +120,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
   <a href="https://ieeexplore.ieee.org/abstract/document/10910206" target="_blank" rel="noopener noreferrer">
   <em>On Metzler positive systems on hypergraphs </em></a> <span><a href="https://arxiv.org/pdf/2401.03652" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
   <small>(with <b>S. Cui</b>, G. Zhang, and M. Cao) <br>
-  IEEE Transactions on Control of Network Systems, 2025.
+  IEEE Transactions on Control of Network Systems, 2025
   </small>
   </li> 
 
