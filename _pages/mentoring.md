@@ -12,6 +12,7 @@ classes: wide
 ## PhD
 
 * **Riccardo Bonetto** (RUG, 2021-)
+* **Tongwei Cao** (RUG, 2025-) [main supervisor is Ming Cao]
 * **Shaoxuan Cui** (RUG, 2022-)
 * **Henrieke Krijgsheld** (RUG, 2024-)
 * **Floor Schipper** (RUG, 2024-)
@@ -23,6 +24,7 @@ classes: wide
 
 * **Naomi Wijnia** (MSc)
 * **Anirudh Ranganatha** (BSc)
+* **Aimilia Kokkinofta** (BSc)
 
 *I am happy to supervise Bachelor's and Master's projects related to the general topic of dynamical systems. 
 If you are interested in my research, feel free to contact me!
