@@ -24,9 +24,9 @@ classes: wide
 ### Master 
 
 * **Naomi Wijnia**
-* **Milou Aukes** (MSc), "On bifurcations of coupled pendula", RUG, 2024.
-* **Ramsay Duff** (MSc), "Bifurcations in the two-node and three-node cases of the Nonlocal Hopping Model", RUG, 2024.
-* **Kumar Harsha** (MSc), "Bifurcations on and Symmetrization of Digraphs", TUM, 2019.
+* **Milou Aukes**, "On bifurcations of coupled pendula", RUG, 2024.
+* **Ramsay Duff**, "Bifurcations in the two-node and three-node cases of the Nonlocal Hopping Model", RUG, 2024.
+* **Kumar Harsha**, "Bifurcations on and Symmetrization of Digraphs", TUM, 2019.
 
 ### Bachelor
 
