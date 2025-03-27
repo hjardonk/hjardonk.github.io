@@ -95,15 +95,16 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 <li>
   <em>General SIS diffusion process with direct and indirect spreading on a hypergraph </em> <span><a href="https://arxiv.org/pdf/2306.00619" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
   <small>(with <b>S. Cui</b>, F. Liu, L. Liang and M. Cao)<br>
-  Accepted in Automatica, 2025
+  Automatica, 2025
   </small>
   </li> 
 
 
 <li>
-  <em>Co-evolutionary control of a class of coupled mixed-feedback systems</em> <span><a href="https://arxiv.org/pdf/2410.19857" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <a href="https://pubs.aip.org/aip/cha/article/35/3/033155/3340547/Co-evolutionary-control-of-a-class-of-coupled" target="_blank" rel="noopener noreferrer">
+  <em>Co-evolutionary control of a class of coupled mixed-feedback systems</em></a> <span><a href="https://arxiv.org/pdf/2410.19857" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
   <small>(with <b>L. Venegas</b> and M. Cao)<br>
-  Accepted in Chaos, 2025
+  Chaos, 2025
   </small>
   </li>
 
@@ -111,7 +112,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
   <a href="https://www.sciencedirect.com/science/article/pii/S2590037425000226" target="_blank" rel="noopener noreferrer">
   <em>Singular bifurcations in a slow-fast modified Leslie-Gower model</em></a> <span><a href="https://arxiv.org/pdf/2411.18059" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
   <small>(with R. Albarrán-García and Martha Alvarez-Ramírez)<br>
-  Accepted in Results in Applied Mathematics, 2025
+  Results in Applied Mathematics, 2025
   </small>
   </li>
 
