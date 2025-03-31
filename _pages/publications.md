@@ -40,36 +40,40 @@ classes: wide
 
 Titles link to the published version and <i class="ai ai-arxiv"></i> links to the arXiv version.<br>
 
-**name** indicates a (co-)supervised PhD student
 
 #### Pre-prints:
 
 <ol reversed="">
 
 <li>
+  <em>On Tensor-based Polynomial Hamiltonian Systems</em> <span><a href="https://arxiv.org/pdf/2503.21487" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
+  <small>(with S. Cui, G Zhang, and M Cao)</small>
+  </li>
+
+<li>
   <em>Higher-order Laplacian dynamics on hypergraphs with cooperative and antagonistic interactions</em> <span><a href="https://arxiv.org/pdf/2502.08276" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-  <small>(with <b>S. Cui</b>, C Zhang, B Jiang, and M Cao)</small>
+  <small>(with S. Cui, C Zhang, B Jiang, and M Cao)</small>
   </li>
 
 <li>
   <em>On the Eigenvalues of Graphs with Mixed Algebraic Structure</em> <span><a href="https://arxiv.org/pdf/2408.00487" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-  <small>(with <b>R. Bonetto</b>) </small>
+  <small>(with R. Bonetto) </small>
   </li>
 
 
 <li>
   <em>Networks of Pendula with Diffusive Interactions</em> <span><a href="https://arxiv.org/pdf/2408.02352" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-  <small>(with <b>R. Bonetto</b> and C. Kuehn) </small>
+  <small>(with R. Bonetto and C. Kuehn) </small>
   </li>
 
 <li>
   <em>Strategic control for a Boltzmann like decision-making model</em> <span><a href="https://arxiv.org/pdf/2405.10915" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-<small>(with <b>L. Venegas-Pineda</b>, M. Engel, J. Heitzig, M. Eser, and M. Cao)</small><br>
+<small>(with L. Venegas-Pineda, M. Engel, J. Heitzig, M. Eser, and M. Cao)</small><br>
   </li> 
 
  <li>
   <em>On the analysis of a higher-order Lotka-Volterra model: an application of S-tensors and the polynomial complementarity problem</em> <span><a href="https://arxiv.org/pdf/2405.18333" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-<small>(with <b>S. Cui</b>, Q, Zhao, G. Zhang, and M. Cao)</small><br>
+<small>(with S. Cui, Q, Zhao, G. Zhang, and M. Cao)</small><br>
     
 
   </li> 
@@ -94,7 +98,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 
 <li>
   <em>General SIS diffusion process with direct and indirect spreading on a hypergraph </em> <span><a href="https://arxiv.org/pdf/2306.00619" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
-  <small>(with <b>S. Cui</b>, F. Liu, L. Liang and M. Cao)<br>
+  <small>(with S. Cui, F. Liu, L. Liang and M. Cao)<br>
   Automatica, 2025
   </small>
   </li> 
@@ -103,7 +107,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 <li>
   <a href="https://pubs.aip.org/aip/cha/article/35/3/033155/3340547/Co-evolutionary-control-of-a-class-of-coupled" target="_blank" rel="noopener noreferrer">
   <em>Co-evolutionary control of a class of coupled mixed-feedback systems</em></a> <span><a href="https://arxiv.org/pdf/2410.19857" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-  <small>(with <b>L. Venegas</b> and M. Cao)<br>
+  <small>(with L. Venegas and M. Cao)<br>
   Chaos, 2025
   </small>
   </li>
@@ -120,7 +124,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 <li>
   <a href="https://ieeexplore.ieee.org/abstract/document/10910206" target="_blank" rel="noopener noreferrer">
   <em>On Metzler positive systems on hypergraphs </em></a> <span><a href="https://arxiv.org/pdf/2401.03652" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-  <small>(with <b>S. Cui</b>, G. Zhang, and M. Cao) <br>
+  <small>(with S. Cui, G. Zhang, and M. Cao) <br>
   IEEE Transactions on Control of Network Systems, 2025
   </small>
   </li> 
@@ -137,21 +141,21 @@ SIAM Journal of Applied Dynamical Systems, 2025
     <a href="https://www.aimspress.com/article/doi/10.3934/nhm.2024058" target="_blank" rel="noopener noreferrer">
   <em>Nonlinear Diffusion on Networks: Perturbations and Consensus Dynamics
   </em></a> <span><a href="https://arxiv.org/pdf/2206.04442" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
-  <small>(with <b>R. Bonetto</b>)<br> 
+  <small>(with R. Bonetto)<br> 
   Networks and Heterogeneous Media, 2024
   </small>
   </li>  
 
  <li>
  <a  href="https://iopscience.iop.org/article/10.1088/1361-6544/ad6bde" target="_blank" rel="noopener noreferrer"> <em>The hyperbolic umbilic singularity in fast-slow systems</em></a> <span><a href="https://arxiv.org/pdf/2202.01662" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
-  <small>(with C. Kuehn and <b>M. Steinert</b>) <br>
+  <small>(with C. Kuehn and M. Steinert) <br>
   Nonlinearity, 2024
     </small>
   </li>
 
  <li>
   <a  href="https://ieeexplore-ieee-org.proxy-ub.rug.nl/document/10540364" target="_blank" rel="noopener noreferrer"><em>On discrete-time polynomial dynamical systems on hypergraphs</em></a> <span><a href="https://arxiv.org/pdf/2403.03416" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
-<small>(with <b>S. Cui</b>, G. Zhang, and M. Cao) <br>
+<small>(with S. Cui, G. Zhang, and M. Cao) <br>
 IEEE L-CSS, 2024
 </small>
   </li> 
@@ -167,7 +171,7 @@ IEEE L-CSS, 2024
 <li>
   <a href="https://www.sciencedirect.com/science/article/pii/S0005109823004673" target="_blank" rel="noopener noreferrer"><em>Discrete-time Layered-network Epidemics Model with Time-varying Transition Rates and Multiple Resources</em></a> 
      <span><a href="https://arxiv.org/pdf/2206.07425" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a></span> <br>
-  <small>(with <b>S. Cui</b>, F. Liu, and M. Cao) </small><br>
+  <small>(with S. Cui, F. Liu, and M. Cao) </small><br>
      <small> Automatica, 2024 </small>
   </li> 
 
@@ -175,7 +179,7 @@ IEEE L-CSS, 2024
   <a href="https://pubs.aip.org/aip/cha/article-abstract/33/11/113123/2921784/Stable-chimera-states-A-geometric-singular?redirectedFrom=fulltext" target="_blank" rel="noopener noreferrer"><em>Stable Chimera States: A Geometric Singular Perturbation Approach
   </em></a> 
   <span><a href="https://arxiv.org/pdf/2301.07071" target="_blank" rel="noopener noreferrer" style="color:#000000;"><i class="ai ai-arxiv"></i></a></span> <br>
-  <small>(with <b>L. Venegas</b> and M. Cao) <br>
+  <small>(with L. Venegas and M. Cao) <br>
   Chaos, 2023
   </small>
   </li>  
@@ -307,14 +311,14 @@ PLoS Comput Biol. 2023
   <li>
   <span><a rel="noopener noreferrer" href="https://ieeexplore.ieee.org/document/10384227" target="_blank"><em>Species Coexistence and Extinction Resulting from Higher-order Lotka-Volterra Two-Faction Competition
   </em></a></span> <br>
-  <small>(with <b>S. Cui</b>, Q. Zhao and M. Cao) </small><br>
+  <small>(with S. Cui, Q. Zhao and M. Cao) </small><br>
   <small> 62nd IEEE Conference on Decision and Control, 2023 </small>
   </li>  
   
   <li>
   <em>A topological perspective on singular canards for critical sets with transverse intersections
   </em> <span><a href="https://arxiv.org/pdf/2304.10822" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span> <br>
-  <small>(with <b>R. Bonetto</b>) </small>
+  <small>(with R. Bonetto) </small>
   </li>  
   
   <li>
