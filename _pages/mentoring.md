@@ -6,8 +6,6 @@ title: Supervision & Mentoring
 classes: wide
 ---
 
-<h2 style="text-align: center;">Current</h2>
-
 
 ### PhD
 *When available, open PhD positions are advertised here.
