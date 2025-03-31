@@ -17,7 +17,7 @@ classes: wide
 * **Henrieke Krijgsheld** (RUG, 2024-2028)
 * **Floor Schipper** (RUG, 2024-2028)
 * **Shaoxuan Cui** (RUG, 2022-2026)
-* **Maximilian Steinert (TUM) [main supervisor is Christian Kuehn]
+* **Maximilian Steinert** (TUM) [main supervisor is Christian Kuehn]
 * **Riccardo Bonetto** (RUG, 2021-2025)
 * **Luis Venegas** (RUG, 2020-2024)
 
