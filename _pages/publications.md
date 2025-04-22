@@ -14,7 +14,7 @@ classes: wide
   background-color: transparent;
   padding: 12px 16px;
   margin-top: 8px;
-  border: 1px #fefaf5;
+  border: 1px solid white;
   border-radius: 6px;
   max-width: 800px;
   width: 100%;
