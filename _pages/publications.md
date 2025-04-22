@@ -17,9 +17,11 @@ classes: wide
   border: 1px solid white;
   border-radius: 6px;
   max-width: 800px;
+  width: 100%;
   line-height: 1.5;
   display: none;
   box-shadow: 0 1px 2px rgba(255, 255, 255, 0.1);
+  text-align: justify;
 }
 
 button {
