@@ -36,6 +36,17 @@ classes: wide
   visibility: visible;
   opacity: 1;
 }
+  .arxiv-abstract {
+  font-size: 0.9em;
+  background-color: #f9f9f9;
+  padding: 10px;
+  margin-top: 5px;
+  border-left: 3px solid #ccc;
+}
+button {
+  margin-top: 5px;
+  cursor: pointer;
+}
 </style>
 
 <script>
