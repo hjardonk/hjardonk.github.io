@@ -14,7 +14,7 @@ classes: wide
   background-color: transparent;
   padding: 12px 16px;
   margin-top: 8px;
-  border: 1px solid white;
+  border: 1px #fefaf5;
   border-radius: 6px;
   max-width: 800px;
   width: 100%;
@@ -22,6 +22,8 @@ classes: wide
   display: none;
   box-shadow: 0 1px 2px rgba(255, 255, 255, 0.1);
   text-align: justify;
+  white-space: normal;
+  word-break: break-word;
 }
 
 button {
