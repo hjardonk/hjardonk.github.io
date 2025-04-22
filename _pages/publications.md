@@ -98,10 +98,6 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
   <em>Loading abstract...</em>
 </div></span><br>
   <small>(with S. Cui, G Zhang, and M Cao)</small>
-  <button onclick="toggleAbstract(this)">Show abstract</button>
-  <div class="arxiv-abstract" data-arxiv-id="2503.21487" style="display:none;">
-    <em>Loading abstract...</em>
-  </div>
   </li>
 
 <li>
