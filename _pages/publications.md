@@ -10,16 +10,16 @@ classes: wide
 
   .arxiv-abstract {
   font-size: 0.85em;
-  background-color: #f8f1f0; /* slightly darker than your page background */
+  color: #fefaf5; /* warm marfil-like color */
+  background-color: transparent;
   padding: 12px 16px;
   margin-top: 8px;
-  border-left: 3px solid #c8a6a0; /* muted accent tone */
+  border: 1px solid white;
   border-radius: 6px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
-  transition: background-color 0.3s ease;
-  display: none;
-  line-height: 1.5;
   max-width: 800px;
+  line-height: 1.5;
+  display: none;
+  box-shadow: 0 1px 2px rgba(255, 255, 255, 0.1);
 }
 
 button {
