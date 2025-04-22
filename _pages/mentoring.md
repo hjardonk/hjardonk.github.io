@@ -12,8 +12,8 @@ classes: wide
 
 
 * **Tangwei Cao** (RUG, 2025-2029) [main supervisor is Ming Cao]
-* **Henrieke Krijgsheld** (RUG, 2024-2028)
 * **Floor Schipper** (RUG, 2024-2028)
+* **Henrieke Krijgsheld** (RUG, 2024-2028)
 * **Shaoxuan Cui** (RUG, 2022-2026)
 * **Maximilian Steinert** (TUM) [main supervisor is Christian Kuehn]
 * **Riccardo Bonetto** (RUG, 2021-2025)
