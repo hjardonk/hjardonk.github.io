@@ -10,24 +10,31 @@ classes: wide
 
   .arxiv-abstract {
   font-size: 0.85em;
-  background-color: rgba(240, 240, 240, 0.6); /* soft light gray with transparency */
+  background-color: #f8f1f0; /* slightly darker than your page background */
   padding: 12px 16px;
   margin-top: 8px;
-  border-left: 3px solid #aaa;
+  border-left: 3px solid #c8a6a0; /* muted accent tone */
   border-radius: 6px;
-  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
   transition: background-color 0.3s ease;
   display: none;
+  line-height: 1.5;
+  max-width: 800px;
 }
+
 button {
   font-size: 0.85em;
   background-color: transparent;
   border: none;
-  color: #0056b3;
+  color: #7d5a5a; /* soft reddish-brown to match your theme */
   text-decoration: underline;
   cursor: pointer;
   margin-top: 5px;
   padding: 0;
+}
+
+button:hover {
+  color: #5c3d3d;
 }
 </style>
 
