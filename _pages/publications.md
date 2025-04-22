@@ -50,18 +50,21 @@ button:hover {
 
 <script>
   async function fetchAbstract(arxivId, container) {
-    const url = `https://export.arxiv.org/api/query?id_list=${arxivId}`;
-    try {
-      const response = await fetch(url);
-      const xml = await response.text();
-      const abstract = new window.DOMParser()
-        .parseFromString(xml, "text/xml")
-        .querySelector("entry > summary").textContent;
-      container.innerText = abstract.trim();
-    } catch (error) {
-      container.innerText = "Failed to load abstract.";
-    }
+  const url = `https://export.arxiv.org/api/query?id_list=${arxivId}`;
+  try {
+    const response = await fetch(url);
+    const xml = await response.text();
+    const summary = new window.DOMParser()
+      .parseFromString(xml, "text/xml")
+      .querySelector("entry > summary").textContent;
+    
+    // Replace all line breaks with spaces so justification works
+    container.innerHTML = summary.replace(/\s*\n\s*/g, ' ').trim();
+  } catch (error) {
+    container.innerText = "Failed to load abstract.";
   }
+}
+
 
   function toggleAbstract(button) {
     const abstractDiv = button.nextElementSibling;
