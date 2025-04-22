@@ -38,6 +38,39 @@ classes: wide
 }
 </style>
 
+<script>
+  async function fetchAbstract(arxivId, container) {
+    const url = `https://export.arxiv.org/api/query?id_list=${arxivId}`;
+    try {
+      const response = await fetch(url);
+      const xml = await response.text();
+      const abstract = new window.DOMParser()
+        .parseFromString(xml, "text/xml")
+        .querySelector("entry > summary").textContent;
+      container.innerText = abstract.trim();
+    } catch (error) {
+      container.innerText = "Failed to load abstract.";
+    }
+  }
+
+  function toggleAbstract(button) {
+    const abstractDiv = button.nextElementSibling;
+    const arxivId = abstractDiv.getAttribute("data-arxiv-id");
+
+    if (abstractDiv.style.display === "none") {
+      abstractDiv.style.display = "block";
+      if (!abstractDiv.dataset.loaded) {
+        fetchAbstract(arxivId, abstractDiv);
+        abstractDiv.dataset.loaded = true;
+      }
+      button.innerText = "Hide abstract";
+    } else {
+      abstractDiv.style.display = "none";
+      button.innerText = "Show abstract";
+    }
+  }
+</script>
+
 Titles link to the published version and <i class="ai ai-arxiv"></i> links to the arXiv version.<br>
 
 
@@ -48,6 +81,10 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 <li>
   <em>On Tensor-based Polynomial Hamiltonian Systems</em> <span><a href="https://arxiv.org/pdf/2503.21487" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a></span><br>
   <small>(with S. Cui, G Zhang, and M Cao)</small>
+  <button onclick="toggleAbstract(this)">Show abstract</button>
+  <div class="arxiv-abstract" data-arxiv-id="2503.21487" style="display:none;">
+    <em>Loading abstract...</em>
+  </div>
   </li>
 
 <li>
