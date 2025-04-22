@@ -11,7 +11,7 @@ classes: wide
 *When available, open PhD positions are advertised here.
 
 
-* **Tongwei Cao** (RUG, 2025-2029) [main supervisor is Ming Cao]
+* **Tangwei Cao** (RUG, 2025-2029) [main supervisor is Ming Cao]
 * **Henrieke Krijgsheld** (RUG, 2024-2028)
 * **Floor Schipper** (RUG, 2024-2028)
 * **Shaoxuan Cui** (RUG, 2022-2026)
