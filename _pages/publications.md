@@ -25,6 +25,12 @@ classes: wide
   white-space: normal;
   word-break: break-word;
 }
+.arxiv-abstract,
+.arxiv-abstract * {
+  text-align: justify;
+  white-space: normal;
+  word-break: break-word;
+}
 
 button {
   font-size: 0.85em;
