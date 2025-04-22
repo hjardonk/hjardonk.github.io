@@ -7,45 +7,27 @@ classes: wide
 ---
 
 <style>
-.abstract {
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
-}
 
-.abstract .abstract-text {
-  visibility: hidden;
-  max-width: 800px; /* Set a maximum width */
-  width: 1000%;
-  background-color: #F2EBEA; /* Change background color for better visibility */
-  color: black; /* Change text color for better visibility */
-  text-align: left;
-  font-size: 12px;
-  padding: 5px;
-  position: absolute;
-  z-index: 1;
-  bottom: 60%; /* Position the tooltip above the text */
-  left: 50%;
-  margin-left: 5px;
-  transform: translateX(-10%);
-  opacity: 0;
-  transition: opacity 0.3s;
-}
-
-.abstract:hover .abstract-text {
-  visibility: visible;
-  opacity: 1;
-}
   .arxiv-abstract {
-  font-size: 0.9em;
-  background-color: #f9f9f9;
-  padding: 10px;
-  margin-top: 5px;
-  border-left: 3px solid #ccc;
+  font-size: 0.85em;
+  background-color: rgba(240, 240, 240, 0.6); /* soft light gray with transparency */
+  padding: 12px 16px;
+  margin-top: 8px;
+  border-left: 3px solid #aaa;
+  border-radius: 6px;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.05);
+  transition: background-color 0.3s ease;
+  display: none;
 }
 button {
-  margin-top: 5px;
+  font-size: 0.85em;
+  background-color: transparent;
+  border: none;
+  color: #0056b3;
+  text-decoration: underline;
   cursor: pointer;
+  margin-top: 5px;
+  padding: 0;
 }
 </style>
 
