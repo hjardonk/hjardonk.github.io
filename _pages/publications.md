@@ -26,25 +26,17 @@ classes: wide
   position: relative;
 }
 
-.arxiv-abstract.loading::after {
-  content: "";
-  display: block;
-  position: absolute;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: linear-gradient(270deg, #fefaf522, #fefaf5aa, #fefaf522);
-  background-size: 400% 100%;
-  animation: shimmer 1.5s ease-in-out infinite;
-  z-index: 0;
-  border-radius: 6px;
-}
 .arxiv-abstract.loading em {
-  position: relative;
-  z-index: 1;
+  background: linear-gradient(90deg, #fefaf5 25%, #ffffff 50%, #fefaf5 75%);
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shimmer-text 1.5s linear infinite;
 }
 
-@keyframes shimmer {
-  0% { background-position: 100% 0; }
-  100% { background-position: -100% 0; }
+@keyframes shimmer-text {
+  0% { background-position: 200% center; }
+  100% { background-position: -200% center; }
 }
 
 .arxiv-abstract, .arxiv-abstract * {
