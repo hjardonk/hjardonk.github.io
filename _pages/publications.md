@@ -26,7 +26,6 @@ classes: wide
   position: relative;
 }
 
-/* Style for the loading effect */
 .arxiv-abstract.loading::after {
   content: "";
   display: block;
@@ -72,7 +71,7 @@ button:hover {
 
 <script>
 async function fetchAbstract(arxivId, container) {
-  const url = `https://arxiv.org/api/query?id_list=${arxivId}`;
+  const url = `https://export.arxiv.org/api/query?id_list=${arxivId}`;
   container.classList.add("loading");
 
   try {
@@ -93,23 +92,21 @@ async function fetchAbstract(arxivId, container) {
 
 function toggleAbstract(button) {
   const abstractDiv = button.nextElementSibling;
+  const arxivId = abstractDiv.getAttribute("data-arxiv-id");
+
   if (abstractDiv.style.display === "none") {
     abstractDiv.style.display = "block";
+    if (!abstractDiv.dataset.loaded) {
+      fetchAbstract(arxivId, abstractDiv);
+    }
     button.innerText = "Hide abstract";
   } else {
     abstractDiv.style.display = "none";
     button.innerText = "Show abstract";
   }
 }
-
-document.addEventListener("DOMContentLoaded", () => {
-  const abstracts = document.querySelectorAll(".arxiv-abstract");
-  abstracts.forEach((div) => {
-    const arxivId = div.getAttribute("data-arxiv-id");
-    fetchAbstract(arxivId, div);
-  });
-});
 </script>
+
 
 
 Titles link to the published version and <i class="ai ai-arxiv"></i> links to the arXiv version.<br>
