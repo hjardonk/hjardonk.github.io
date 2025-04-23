@@ -7,10 +7,9 @@ classes: wide
 ---
 
 <style>
-
-  .arxiv-abstract {
+.arxiv-abstract {
   font-size: 0.85em;
-  color: #fefaf5; /* warm marfil-like color */
+  color: #fefaf5;
   background-color: transparent;
   padding: 12px 16px;
   margin-top: 8px;
@@ -24,9 +23,32 @@ classes: wide
   text-align: justify;
   white-space: normal;
   word-break: break-word;
+  position: relative;
 }
-.arxiv-abstract,
-.arxiv-abstract * {
+
+/* Style for the loading effect */
+.arxiv-abstract.loading::after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: linear-gradient(270deg, #fefaf522, #fefaf5aa, #fefaf522);
+  background-size: 400% 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+  z-index: 0;
+  border-radius: 6px;
+}
+.arxiv-abstract.loading em {
+  position: relative;
+  z-index: 1;
+}
+
+@keyframes shimmer {
+  0% { background-position: 100% 0; }
+  100% { background-position: -100% 0; }
+}
+
+.arxiv-abstract, .arxiv-abstract * {
   text-align: justify;
   white-space: normal;
   word-break: break-word;
@@ -36,7 +58,7 @@ button {
   font-size: 0.85em;
   background-color: transparent;
   border: none;
-  color: #7d5a5a; /* soft reddish-brown to match your theme */
+  color: #7d5a5a;
   text-decoration: underline;
   cursor: pointer;
   margin-top: 5px;
@@ -49,40 +71,46 @@ button:hover {
 </style>
 
 <script>
-  async function fetchAbstract(arxivId, container) {
-  const url = `https://export.arxiv.org/api/query?id_list=${arxivId}`;
+async function fetchAbstract(arxivId, container) {
+  const url = `https://arxiv.org/api/query?id_list=${arxivId}`;
+  container.classList.add("loading");
+
   try {
     const response = await fetch(url);
     const xml = await response.text();
     const summary = new window.DOMParser()
       .parseFromString(xml, "text/xml")
       .querySelector("entry > summary").textContent;
-    
-    // Replace all line breaks with spaces so justification works
+
     container.innerHTML = summary.replace(/\s*\n\s*/g, ' ').trim();
+    container.dataset.loaded = true;
   } catch (error) {
     container.innerText = "Failed to load abstract.";
+  } finally {
+    container.classList.remove("loading");
   }
 }
 
-
-  function toggleAbstract(button) {
-    const abstractDiv = button.nextElementSibling;
-    const arxivId = abstractDiv.getAttribute("data-arxiv-id");
-
-    if (abstractDiv.style.display === "none") {
-      abstractDiv.style.display = "block";
-      if (!abstractDiv.dataset.loaded) {
-        fetchAbstract(arxivId, abstractDiv);
-        abstractDiv.dataset.loaded = true;
-      }
-      button.innerText = "Hide abstract";
-    } else {
-      abstractDiv.style.display = "none";
-      button.innerText = "Show abstract";
-    }
+function toggleAbstract(button) {
+  const abstractDiv = button.nextElementSibling;
+  if (abstractDiv.style.display === "none") {
+    abstractDiv.style.display = "block";
+    button.innerText = "Hide abstract";
+  } else {
+    abstractDiv.style.display = "none";
+    button.innerText = "Show abstract";
   }
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  const abstracts = document.querySelectorAll(".arxiv-abstract");
+  abstracts.forEach((div) => {
+    const arxivId = div.getAttribute("data-arxiv-id");
+    fetchAbstract(arxivId, div);
+  });
+});
 </script>
+
 
 Titles link to the published version and <i class="ai ai-arxiv"></i> links to the arXiv version.<br>
 
