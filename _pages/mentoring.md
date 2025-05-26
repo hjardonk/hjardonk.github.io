@@ -44,8 +44,22 @@ classes: wide
 * **Thomas Wesselink**, "Controlling a flexible-joint robot", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/13928/)
 * **Renate Bijker**, "Improvement of a wind farm operation strategy", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/13909/)
 
-*I am happy to supervise Bachelor's and Master's projects related to the general topic of dynamical systems. 
+<div class="text-frame">
+  I am happy to supervise Bachelor's and Master's projects related to the general topic of dynamical systems. 
 If you are interested in my research, feel free to contact me!
+</div>
+
+<style>
+.text-frame {
+  border: 1px solid #ccc;
+  padding: 1em;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+</style>
+
+
 
 
 
