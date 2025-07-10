@@ -8,7 +8,10 @@ classes: wide
 
 
 ### PhD
-*When available, open PhD positions are advertised here.
+<div class="text-frame">
+When available, open PhD positions are advertised here.
+</div>
+
 
 * **Ahida Ortiz Santos** (RUG-UAM, 2025-2029) [co-supervised with Martha Alvarez]
 * **Tangwei Cao** (RUG, 2025-2029) [main supervisor is Ming Cao]
@@ -55,6 +58,8 @@ If you are interested in my research, feel free to contact me!
   border: 1px solid #ccc;
   padding: 1em;
   border-radius: 8px;
+  width: fit-content; 
+  text-align: center;
 }
 </style>
 
