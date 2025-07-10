@@ -39,7 +39,7 @@ students better prepared for linear algebra at Dutch universities", RUG, 2025.
 * **Tomoyuki van Ouwendorp**, "Passivity analysis of a bursting neuron", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/15298/)
 * **Sharon Verhoeff**, "Numerical methods for parametric resonance", RUG, 2017. [[link]](https://fse.studenttheses.ub.rug.nl/15299/)
 * **Casper Stork**, "Model and simulation of a cantilever under parametric resonance", RUG, 2017. [[link]](https://fse.studenttheses.ub.rug.nl/15346/)
-* **Jorick Wold**), "Finite Element Analysis of a piezoelectric cantilever under parametric resonance", RUG, 2017. [[link]](https://fse.studenttheses.ub.rug.nl/15678/)
+* **Jorick Wold**, "Finite Element Analysis of a piezoelectric cantilever under parametric resonance", RUG, 2017. [[link]](https://fse.studenttheses.ub.rug.nl/15678/)
 * **Martijn Kamphuis**, "A port-Hamiltonian approach to Gas Metal Arc Welding", RUG, 2017. 
 * **Vincent Samallo**, "Camera integration on a robotic system", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/13997/)
 * **Thomas Wesselink**, "Controlling a flexible-joint robot", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/13928/)
