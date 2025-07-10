@@ -10,7 +10,7 @@ classes: wide
 ### PhD
 *When available, open PhD positions are advertised here.
 
-
+* **Ahida Ortiz Santos** (RUG-UAM, 2025-2029) [co-supervised with Martha Alvarez]
 * **Tangwei Cao** (RUG, 2025-2029) [main supervisor is Ming Cao]
 * **Floor Schipper** (RUG, 2024-2028)
 * **Henrieke Krijgsheld** (RUG, 2024-2028)
