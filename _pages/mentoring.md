@@ -16,22 +16,23 @@ classes: wide
 * **Henrieke Krijgsheld** (RUG, 2024-2028)
 * **Shaoxuan Cui** (RUG, 2022-2026)
 * **Maximilian Steinert** (TUM) [main supervisor is Christian Kuehn]
-* **Riccardo Bonetto** (RUG, 2021-2025)
-* **Luis Venegas** (RUG, 2020-2024)
+* **Riccardo Bonetto** (RUG, graduated, 08/04/2025)
+* **Luis Venegas** (RUG, graduated, 17/06/2025)
 
 
 ### Master 
 
-* **Naomi Wijnia**
+* **Naomi Wijnia**, "Building bridges between high school and university: Adapting the Dutch vwo Wiskunde B curriculum to make
+students better prepared for linear algebra at Dutch universities", RUG, 2025.
 * **Milou Aukes**, "On bifurcations of coupled pendula", RUG, 2024.
 * **Ramsay Duff**, "Bifurcations in the two-node and three-node cases of the Nonlocal Hopping Model", RUG, 2024.
 * **Kumar Harsha**, "Bifurcations on and Symmetrization of Digraphs", TUM, 2019.
 
 ### Bachelor
 
-* **Anirudh Ranganatha** 
-* **Aimilia Kokkinofta** 
-* **Ivet Stanislavova**, "Analysis of an Adaptive Theta Neuron model", RUG, 2024
+* **Anirudh Ranganatha**, "Analysis on Phase-Locking in Interacting Theta Neurons",  RUG, 2025.  
+* **Aimilia Kokkinofta**, "Coupling Mechanisms in Central Pattern Generators: A Two-Neuron FitzHugh–Nagumo Model", RUG, 2025. 
+* **Ivet Stanislavova**, "Analysis of an Adaptive Theta Neuron model", RUG, 2024.
 * **Naomi Wijnia**, "Old Institutions with Old Habits. Research into Teaching University Mathematics, Including Lecture Notes on Holomorphic Differential Equations based on the Findings of 21st Century Researchers on Education", RUG, 2023.
 * **Timo Hilverts**, "The Kuramoto model on homogeneous ring networks for conformists and contrarians", RUG, 2022.
 * **Milou Aukes**, "The Kuramoto model on ring networks of homogeneous phase-oscillators", RUG, 2022
