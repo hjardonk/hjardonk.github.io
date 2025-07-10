@@ -6,8 +6,11 @@ title: Supervision & Mentoring
 classes: wide
 ---
 
+<div style="text-align: center; font-weight: bold; font-size: 16;">
+  PhD
+  <div style="width: 40px; height: 1px; background-color: #ccc; margin: 4px auto 0;"></div>
+</div>
 
-<div style="text-align: center; font-weight: bold; font-size: 14;">. . . PhD . . .</div>
 <div class="text-frame">
 When available, open PhD positions are advertised here.
 </div>
