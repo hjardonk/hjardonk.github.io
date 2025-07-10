@@ -55,8 +55,6 @@ If you are interested in my research, feel free to contact me!
   border: 1px solid #ccc;
   padding: 1em;
   border-radius: 8px;
-  background-color: #f9f9f9;
-  box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
 }
 </style>
 
