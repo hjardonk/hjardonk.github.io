@@ -7,7 +7,7 @@ classes: wide
 ---
 
 
-### PhD
+<div style="text-align: center; font-weight: bold; font-size: 14;">. . . PhD . . .</div>
 <div class="text-frame">
 When available, open PhD positions are advertised here.
 </div>
