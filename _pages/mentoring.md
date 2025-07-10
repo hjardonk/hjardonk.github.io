@@ -22,8 +22,8 @@ When available, open PhD positions are advertised here.
 * **Henrieke Krijgsheld** (RUG, 2024-2028)
 * **Shaoxuan Cui** (RUG, 2022-2026)
 * **Maximilian Steinert** (TUM) [main supervisor is Christian Kuehn]
-* **Riccardo Bonetto** (RUG, graduated, 8 July 2025)
-* **Luis Venegas** (RUG, graduated, 17 June 2025)
+* **Riccardo Bonetto** (RUG, graduated 8 July 2025)
+* **Luis Venegas** (RUG, graduated 17 June 2025)
 
 <div style="text-align: center; font-weight: bold; font-size: 22px;">
   Master
