@@ -9,7 +9,7 @@ classes: wide
 <div style="text-align: center; font-weight: bold; font-size: 22px;">
   PhD
   <div style="width: 120px; height: 1px; background-color: #ccc; margin: 4px auto 0;"></div>
-</div><br>
+</div>
 
 <div class="text-frame">
 When available, open PhD positions are advertised here.
