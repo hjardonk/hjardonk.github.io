@@ -6,7 +6,7 @@ title: Supervision & Mentoring
 classes: wide
 ---
 
-<div style="text-align: center; font-weight: bold; font-size: 16;">
+<div style="text-align: center; font-weight: bold; font-size: 16px;">
   PhD
   <div style="width: 120px; height: 1px; background-color: #ccc; margin: 4px auto 0;"></div>
 </div>
@@ -27,8 +27,10 @@ When available, open PhD positions are advertised here.
 * **Riccardo Bonetto** (RUG, graduated, 8 July 2025)
 * **Luis Venegas** (RUG, graduated, 17 June 2025)
 
-
-### Master 
+<div style="text-align: center; font-weight: bold; font-size: 16px;">
+  Master
+  <div style="width: 120px; height: 1px; background-color: #ccc; margin: 4px auto 0;"></div>
+</div>
 
 * **Naomi Wijnia**, "Building bridges between high school and university: Adapting the Dutch vwo Wiskunde B curriculum to make
 students better prepared for linear algebra at Dutch universities", RUG, 2025.
@@ -36,7 +38,10 @@ students better prepared for linear algebra at Dutch universities", RUG, 2025.
 * **Ramsay Duff**, "Bifurcations in the two-node and three-node cases of the Nonlocal Hopping Model", RUG, 2024.
 * **Kumar Harsha**, "Bifurcations on and Symmetrization of Digraphs", TUM, 2019.
 
-### Bachelor
+<div style="text-align: center; font-weight: bold; font-size: 16px;">
+  Bachelor
+  <div style="width: 240px; height: 1px; background-color: #ccc; margin: 4px auto 0;"></div>
+</div>
 
 * **Anirudh Ranganatha**, "Analysis on Phase-Locking in Interacting Theta Neurons",  RUG, 2025.  
 * **Aimilia Kokkinofta**, "Coupling Mechanisms in Central Pattern Generators: A Two-Neuron FitzHugh–Nagumo Model", RUG, 2025. 
@@ -54,14 +59,14 @@ students better prepared for linear algebra at Dutch universities", RUG, 2025.
 * **Renate Bijker**, "Improvement of a wind farm operation strategy", RUG, 2016. [[link]](https://fse.studenttheses.ub.rug.nl/13909/)
 
 <div class="text-frame">
-  I am happy to supervise Bachelor's and Master's projects related to the general topic of dynamical systems. 
+  I am happy to supervise Bachelor's and Master's projects related to dynamical systems. 
 If you are interested in my research, feel free to contact me!
 </div>
 
 <style>
 .text-frame {
   border: 1px solid #ccc;
-  padding: 0em;
+  padding: 0.25em;
   border-radius: 6px;
   width: fit-content; 
   text-align: center;
