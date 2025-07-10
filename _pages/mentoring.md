@@ -8,8 +8,10 @@ classes: wide
 
 <div style="text-align: center; font-weight: bold; font-size: 16;">
   PhD
-  <div style="width: 40px; height: 1px; background-color: #ccc; margin: 4px auto 0;"></div>
+  <div style="width: 120px; height: 1px; background-color: #ccc; margin: 4px auto 0;"></div>
 </div>
+
+<br>
 
 <div class="text-frame">
 When available, open PhD positions are advertised here.
@@ -59,8 +61,8 @@ If you are interested in my research, feel free to contact me!
 <style>
 .text-frame {
   border: 1px solid #ccc;
-  padding: 1em;
-  border-radius: 8px;
+  padding: 0em;
+  border-radius: 6px;
   width: fit-content; 
   text-align: center;
 }
