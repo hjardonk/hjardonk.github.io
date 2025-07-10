@@ -6,12 +6,10 @@ title: Supervision & Mentoring
 classes: wide
 ---
 
-<div style="text-align: center; font-weight: bold; font-size: 16px;">
+<div style="text-align: center; font-weight: bold; font-size: 22px;">
   PhD
   <div style="width: 120px; height: 1px; background-color: #ccc; margin: 4px auto 0;"></div>
-</div>
-
-<br>
+</div><br>
 
 <div class="text-frame">
 When available, open PhD positions are advertised here.
@@ -27,7 +25,7 @@ When available, open PhD positions are advertised here.
 * **Riccardo Bonetto** (RUG, graduated, 8 July 2025)
 * **Luis Venegas** (RUG, graduated, 17 June 2025)
 
-<div style="text-align: center; font-weight: bold; font-size: 16px;">
+<div style="text-align: center; font-weight: bold; font-size: 22px;">
   Master
   <div style="width: 120px; height: 1px; background-color: #ccc; margin: 4px auto 0;"></div>
 </div>
@@ -38,7 +36,7 @@ students better prepared for linear algebra at Dutch universities", RUG, 2025.
 * **Ramsay Duff**, "Bifurcations in the two-node and three-node cases of the Nonlocal Hopping Model", RUG, 2024.
 * **Kumar Harsha**, "Bifurcations on and Symmetrization of Digraphs", TUM, 2019.
 
-<div style="text-align: center; font-weight: bold; font-size: 16px;">
+<div style="text-align: center; font-weight: bold; font-size: 22px;">
   Bachelor
   <div style="width: 240px; height: 1px; background-color: #ccc; margin: 4px auto 0;"></div>
 </div>
