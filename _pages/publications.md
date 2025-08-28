@@ -108,14 +108,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 
 <ol reversed="">
 
-<li>
-  <em>On Tensor-based Polynomial Hamiltonian Systems</em> <span><a href="https://arxiv.org/pdf/2503.21487" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a><br>
-<button onclick="toggleAbstract(this)">Show abstract</button>
-<div class="arxiv-abstract" data-arxiv-id="2503.21487" style="display:none;">
-  <em>Loading abstract...</em>
-</div></span><br>
-  <small>(with S. Cui, G Zhang, and M Cao)</small>
-  </li>
+
 
 <li>
   <em>Higher-order Laplacian dynamics on hypergraphs with cooperative and antagonistic interactions</em> <span><a href="https://arxiv.org/pdf/2502.08276" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a><br>
@@ -154,16 +147,7 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 <small>(with L. Venegas-Pineda, M. Engel, J. Heitzig, M. Eser, and M. Cao)</small><br>
   </li> 
 
- <li>
-  <em>On the analysis of a higher-order Lotka-Volterra model: an application of S-tensors and the polynomial complementarity problem</em> <span><a href="https://arxiv.org/pdf/2405.18333" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a><br>
-<button onclick="toggleAbstract(this)">Show abstract</button>
-<div class="arxiv-abstract" data-arxiv-id="2405.18333" style="display:none;">
-  <em>Loading abstract...</em>
-</div></span><br>
-<small>(with S. Cui, Q, Zhao, G. Zhang, and M. Cao)</small><br>
-    
 
-  </li> 
 
   
   <li>
@@ -187,8 +171,19 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 
 <ol reversed="">
 
+ <li>
+ <a href="https://ieeexplore.ieee.org/document/11124400"> <em>Analysis of higher-order Lotka-Volterra models: Application of S-tensors and the polynomial complementarity problem</em></a> <span><a href="https://arxiv.org/pdf/2405.18333" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a><br>
+<button onclick="toggleAbstract(this)">Show abstract</button>
+<div class="arxiv-abstract" data-arxiv-id="2405.18333" style="display:none;">
+  <em>Loading abstract...</em>
+</div></span><br>
+<small>(with S. Cui, Q, Zhao, G. Zhang, and M. Cao)</small><br>
+    
+
+  </li> 
+
 <li>
-  <em>General SIS diffusion process with direct and indirect spreading on a hypergraph </em> <span><a href="https://arxiv.org/pdf/2306.00619" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a><br>
+ <a href="https://www.sciencedirect.com/science/article/pii/S0005109825002122"> <em>An SIS diffusion process with direct and indirect spreading on a hypergraph </em></a> <span><a href="https://arxiv.org/pdf/2306.00619" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a><br>
 <button onclick="toggleAbstract(this)">Show abstract</button>
 <div class="arxiv-abstract" data-arxiv-id="2306.00619" style="display:none;">
   <em>Loading abstract...</em>
@@ -474,6 +469,15 @@ PLoS Comput Biol. 2023
 #### Conference proceedings:
 
 <ol reversed>
+
+<li>
+  <em>On Tensor-based Polynomial Hamiltonian Systems</em> <span><a href="https://arxiv.org/pdf/2503.21487" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a><br>
+<button onclick="toggleAbstract(this)">Show abstract</button>
+<div class="arxiv-abstract" data-arxiv-id="2503.21487" style="display:none;">
+  <em>Loading abstract...</em>
+</div></span><br>
+  <small>(with S. Cui, G Zhang, and M Cao)</small>
+  </li>
 
   <li>
   <span><a rel="noopener noreferrer" href="https://ieeexplore.ieee.org/document/10384227" target="_blank"><em>Species Coexistence and Extinction Resulting from Higher-order Lotka-Volterra Two-Faction Competition
