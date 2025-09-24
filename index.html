@@ -9,16 +9,6 @@ header:
   overlay_image: /assets/images/hero.svg
 excerpt: >
   Dynamical systems, slow-fast systems, networks
-feature_row:
-  - image_path: /assets/images/card_projects.svg
-    url: /projects/
-    alt: "Projects"
-  - image_path: /assets/images/card_publications.svg
-    url: /publications/
-    alt: "Publications"
-  - image_path: /assets/images/card_teaching.svg
-    url: /teaching/
-    alt: "Teaching"
 ---
 
 <p class="page__lead">
@@ -33,5 +23,14 @@ My work spans slow–fast dynamical systems, networks and complex systems, and a
 - <a href="https://www.rug.nl/education/summer-winter-schools/multiscale-modeling/?lang=en">Summer School: Multiscale Modelling and its Applications</a>
 - <a href="https://hildejk.xyz/FlorisTakensSeminar/">Floris Takens Seminar</a>
 
-
-{% include feature_row %}
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem;align-items:start;">
+  <a href="/projects/">
+    <img src="/assets/images/card_projects.svg" alt="Projects" style="width:100%;height:auto;border-radius:10px;">
+  </a>
+  <a href="/publications/">
+    <img src="/assets/images/card_publications.svg" alt="Publications" style="width:100%;height:auto;border-radius:10px;">
+  </a>
+  <a href="/teaching/">
+    <img src="/assets/images/card_teaching.svg" alt="Teaching" style="width:100%;height:auto;border-radius:10px;">
+  </a>
+</div>
