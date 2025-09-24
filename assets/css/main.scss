@@ -7,3 +7,26 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'dark' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+a > img[alt] { transition: transform .15s ease, box-shadow .15s ease; }
+a:hover > img[alt] { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0,0,0,.25); }
+
+
+/* Make hero excerpt smaller and wider */
+.page__hero--overlay .page__lead {
+  font-size: 1rem;          
+  line-height: 1.5;         
+  max-width: 100%;          
+  margin-left: 0;           
+  text-align: left;         
+}
+
+.page__hero--overlay .page__title {
+  font-size: 1.6rem;        
+  line-height: 1.25;
+}
+
+.page__hero--overlay {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
