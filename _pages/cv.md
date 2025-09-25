@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-layout: splash
+layout: single
 author_profile: false
 title: CV
 classes: wide
