@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 layout: single
-author_profile: true
+author_profile: false
 title: CV
 classes: wide
 ---
