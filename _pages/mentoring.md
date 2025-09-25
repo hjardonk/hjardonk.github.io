@@ -11,6 +11,8 @@ classes: wide
   <div style="width: 120px; height: 1px; background-color: #ccc; margin: 4px auto 0;"></div>
 </div>
 
+<br>
+
 <div class="text-frame">
 When available, open PhD positions are advertised here.
 </div>
