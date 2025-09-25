@@ -1,7 +1,7 @@
 ---
 permalink: /mentoring/
 layout: single
-author_profile: true
+author_profile: false
 title: Supervision & Mentoring
 classes: wide
 ---
