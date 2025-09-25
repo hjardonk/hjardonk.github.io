@@ -5,7 +5,7 @@ author_profile: true
 title: Teaching
 ---
 
-In the recent years I've taught the following courses at the University of Groningen:
+In recent years, I've taught the following courses at the University of Groningen:
 
 * **Multivariable Analysis** (2022, 2023, 2024, 2025)
 * **Perturbation Theory** (2022, 2024)
