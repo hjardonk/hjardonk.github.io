@@ -109,6 +109,14 @@ Titles link to the published version and <i class="ai ai-arxiv"></i> links to th
 <ol reversed="">
 
 
+<li>
+  <em>Singular basins in multiscale systems</em> <span><a href="https://arxiv.org/pdf/2601.02001" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a><br>
+<button onclick="toggleAbstract(this)">Show abstract</button>
+<div class="arxiv-abstract" data-arxiv-id="2601.02001" style="display:none;">
+  <em>Loading abstract...</em>
+</div></span><br>
+  <small>(with S. Yanchuk, S. Wieczorek and H. Alkhayuon)</small>
+  </li>
 
 <li>
   <em>Higher-order Laplacian dynamics on hypergraphs with cooperative and antagonistic interactions</em> <span><a href="https://arxiv.org/pdf/2502.08276" target="_blank" rel="noopener noreferrer"><i class="ai ai-arxiv"></i></a><br>
